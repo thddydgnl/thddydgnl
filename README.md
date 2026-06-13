@@ -2,7 +2,7 @@
 
 # Hi, I'm YongHwi Song 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4A6FA5&center=true&vCenter=true&width=600&lines=Information+%26+Communication+Engineering+Student;Researching+AI%2FNLP%2C+Language%2C+and+Learning;Building+systems+that+understand%2C+reason%2C+and+act)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=4A6FA5&center=true&vCenter=true&width=760&lines=Information+%26+Communication+Engineering+Student;Prospective+Graduate+Student+in+AI%2FNLP;Research+Interests%3A+LLMs%2C+NLP%2C+AI+Agents%2C+RL;Building+Systems+that+Understand+and+Act)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-thddydgnl1937@gmail.com-4A6FA5?style=flat-square&logo=gmail&logoColor=white)](mailto:thddydgnl1937@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-thddydgnl-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl)
