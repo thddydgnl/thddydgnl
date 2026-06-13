@@ -13,8 +13,6 @@
 
 ## 👨‍🎓 About Me
 
-> *"Building intelligent systems that understand, reason, and act through language and learning."*
-
 - **B.S. Candidate in Information & Communication Engineering**, Chungbuk National University<br><sub>Mar. 2023 – Present</sub>
 - **Research Student**, Multimedia Information Processing (MIP) Laboratory<br><sub>Mar. 2025 – Jun. 2026</sub>
 - **Advanced Division Leader**, HyperCore AI & Data Analytics Club<br><sub>Jan. 2026 – Present</sub>
