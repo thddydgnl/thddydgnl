@@ -141,14 +141,6 @@ Sep. 2025 ~ Present
 
 ---
 
-## 🎓 Education
-
-| Institution | Major | Period | GPA |
-|---|---|---|---|
-| Chungbuk National University | Information and Communication Engineering | Mar. 2023 ~ Present | 3.85 / 4.5 |
-
----
-
 ## 🏆 Awards & Honors
 
 - Undergraduate Research Assistant Scholarship, Chungbuk National University, Korea (Sep. 2025 ~ Mar. 2026)
