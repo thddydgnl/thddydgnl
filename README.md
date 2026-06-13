@@ -1,147 +1,110 @@
 <div align="center">
 
-# YongHwi Song
+# Hi, I'm YongHwi Song 👋
 
-**B.S. Candidate in Information and Communication Engineering**  
-**Prospective Graduate Student in AI / NLP**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4A6FA5&center=true&vCenter=true&width=600&lines=Information+%26+Communication+Engineering+Student;Researching+AI%2FNLP%2C+Language%2C+and+Learning;Building+systems+that+understand%2C+reason%2C+and+act)](https://git.io/typing-svg)
 
-I am interested in building intelligent systems that understand, reason, and act through language and learning.
-
-[![Email](https://img.shields.io/badge/Email-thddydgnl1937%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thddydgnl1937@gmail.com)
+[![Email](https://img.shields.io/badge/Email-thddydgnl1937@gmail.com-4A6FA5?style=flat-square&logo=gmail&logoColor=white)](mailto:thddydgnl1937@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-thddydgnl-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl)
 
 </div>
 
 ---
 
-# About Me
+## 👨‍🎓 About Me
 
-| Activity | Period |
-|---|---|
-| Research Student, Multimedia Information Processing (MIP) Laboratory | Mar. 2025 ~ Jun. 2026 |
-| Advanced Division Leader, HyperCore AI & Data Analytics Club | Jan. 2026 ~ Present |
-| B.S. Candidate, Chungbuk National University | Mar. 2023 ~ Present |
+> *"Building intelligent systems that understand, reason, and act through language and learning."*
 
----
-
-## 📌 Research Interests
-
-- Large/Small Language Models
-- Natural Language Processing
-- AI Agents
-- Reinforcement Learning
+- 🎓 **B.S. Candidate in Information & Communication Engineering**, Chungbuk National University (Mar. 2023 – Present)
+- 🔭 Preparing for **graduate study in AI/NLP**
+- 📚 Interested in Large/Small Language Models, NLP, AI Agents, and Reinforcement Learning
 
 ---
 
-## 🚀 Projects
+## 🔬 Research Interests
 
-### 🔹 [Shapley-guided Multimodal Reinforcement Learning for Autonomous Driving](https://github.com/thddydgnl/rcs-ac-04-final) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/rcs-ac-04-final)
-
-> Faculty-supervised research project on robust reinforcement learning-based autonomous driving with multimodal sensor fusion.
-
-**My Role**  
-Implemented Shapley-guided multimodal fusion using RGB, LiDAR, route, and ego-state inputs.
-
-**Tech Stack**  
-Python, PyTorch, Stable-Baselines3, CARLA, Sensor Fusion, Reinforcement Learning
-
-**Repositories**  
-[Main Implementation](https://github.com/thddydgnl/rcs-ac-04-final) · [Experiments](https://github.com/thddydgnl/rcs-ac-03-experiments) · [Prototype](https://github.com/thddydgnl/rcs-ac-01-prototype)
-
-**Project Period**  
-Jun. 2025 ~ Jun. 2026
+| Area | Keywords |
+| :--- | :--- |
+| **Language Models** | Large / Small Language Models |
+| **Natural Language Processing** | Language understanding & generation |
+| **AI Agents** | Agent-based autonomous systems |
+| **Reinforcement Learning** | Applications in autonomous systems |
 
 ---
 
-### 🔹 [Solar TutorBoard: AI-Powered Personalized Learning Platform](https://github.com/thddydgnl/solar-tutorboard) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/solar-tutorboard)
+<div align="center">
 
-> Solar Pro3-based AI agent service for tutor lesson reports, payment reminders, schedule coordination, and parent communication.
+# 🚀 Featured Projects
 
-**My Role**  
-Built AI-agent workflows and backend infrastructure for personalized learning support.
+</div>
 
-**Tech Stack**  
-AI Agents, Python, TypeScript, Supabase, Solar Pro3
+### 🚗 Autonomous Driving Research
+![Status](https://img.shields.io/badge/Status-Active-2EA043?style=flat-square) ![Period](https://img.shields.io/badge/Jun%202025%20–%20Jun%202026-555?style=flat-square) ![Role](https://img.shields.io/badge/Faculty--Supervised-4A6FA5?style=flat-square)
 
-**Project Period**  
-May. 2026 ~ May. 2026
+Leading a faculty-supervised initiative on **Shapley-guided multimodal sensor fusion** for autonomous driving, building and evaluating fusion models in a high-fidelity simulation environment.
 
----
+`Python` · `PyTorch` · `CARLA`
 
-### 🔹 [Multi-Agent Vehicle Trajectory Prediction on Argoverse 2](https://github.com/thddydgnl/vehicle-trajectory-prediction-av2) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/vehicle-trajectory-prediction-av2)
+<br>
 
-> End-to-end trajectory forecasting project comparing Linear, LSTM, Transformer, Direct Diffusion, and PCA Latent Diffusion models.
+### 🎓 Educational AI Platform
+![Status](https://img.shields.io/badge/Status-In%20Progress-DBAB0A?style=flat-square) ![Type](https://img.shields.io/badge/LLM%20Agent-4A6FA5?style=flat-square)
 
-**Tech Stack**  
-Python, Argoverse 2, Motion Forecasting, LSTM, Transformer, Diffusion Models
+Developing an **agent-based tutoring system** powered by Solar Pro3 — handling scheduling, parent communication, and lesson coordination through autonomous language agents.
 
-**Project Period**  
-Mar. 2026 ~ Jun. 2026
+`LLM Agent` · `Solar Pro3` · `FastAPI`
 
----
+<br>
 
-### 🔹 [WiFi CSI-based Patient Monitoring System](https://github.com/thddydgnl/hospital-fall-detection-wifi-csi) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/hospital-fall-detection-wifi-csi)
+### 📈 Trajectory Forecasting
+![Status](https://img.shields.io/badge/Status-In%20Progress-DBAB0A?style=flat-square) ![Type](https://img.shields.io/badge/Research-4A6FA5?style=flat-square)
 
-> Wi-Fi CSI-based patient monitoring MVP for bed-state classification, fall-risk event detection, and respiration monitoring.
+Comparative study of deep learning architectures (**LSTM · Transformer · Diffusion**) for vehicle motion prediction on the Argoverse 2 dataset.
 
-**Tech Stack**  
-Python, WiFi CSI, Deep Learning, TinyTransformer, Patient Monitoring
+`PyTorch` · `Argoverse 2`
 
-**Project Period**  
-Apr. 2026 ~ Present
+<br>
 
----
+### 🩺 Healthcare IoT
+![Status](https://img.shields.io/badge/Status-In%20Progress-DBAB0A?style=flat-square) ![Type](https://img.shields.io/badge/Deep%20Learning-4A6FA5?style=flat-square)
 
-### 🔹 Comparative Survey of Reinforcement Learning Research for Autonomous Driving [![GitHub](https://img.shields.io/badge/Supporting%20Tool-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/survey_webform)
+Building a **WiFi CSI-based patient monitoring system** with fall detection and respiration analysis through deep learning on wireless channel signals.
 
-> Independent research project analyzing 93 reinforcement learning-based autonomous driving studies and summarizing key research trends.
-
-**Supporting Tool**  
-[survey_webform](https://github.com/thddydgnl/survey_webform)
-
-**Project Period**  
-Sep. 2025 ~ Present
+`Deep Learning` · `Signal Processing` · `WiFi CSI`
 
 ---
 
-## ✨ Tech Stack ✨
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-1D4ED8?style=for-the-badge)
-![CARLA](https://img.shields.io/badge/CARLA-111827?style=for-the-badge)
-![Argoverse 2](https://img.shields.io/badge/Argoverse%202-0F766E?style=for-the-badge)
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
-## 🛠️ Tools 🛠️
+**ML / Frameworks**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Tools & Platforms**
+
+![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-4A6FA5?style=flat-square)
+![CARLA](https://img.shields.io/badge/CARLA-1F1F1F?style=flat-square)
 
 ---
 
-## 📝 Research Manuscripts
+## 📝 Publications
 
-- **Under Review**: Song, YongHwi*, [Co-authors]. "Shapley-style Contribution-Guided Sensor Fusion for Robust Reinforcement Learning-Based Autonomous Driving." Submitted to KIISE Transactions on Computing Practices (KTCP), 2026. *First author.
-- **In Preparation**: Song, YongHwi*. "A Comparative Survey of Domestic and International Reinforcement Learning Research for Autonomous Driving." Manuscript in preparation, 2026.
-
----
-
-## 📚 Publication
-
-- Hyeban Namgung, Kuk Seorin, Park Geonwoo, Bae Seohyun, Song Yonghwi, Lee Hyesong, Han Jian, Hyojoong Kim, "A Comparative Study on the Prevalence of Forensic Flies Using Chicken Corpse", Journal of Science Education for the Gifted, 2020.
+- **1** peer-reviewed publication (2020)
+- Manuscripts **under review / in preparation** on reinforcement learning for autonomous systems
 
 ---
 
-## Contact
+<div align="center">
 
-- Email: <thddydgnl1937@gmail.com>
-- GitHub: <https://github.com/thddydgnl>
+*Building intelligent systems that understand, reason, and act.*
+
+</div>
