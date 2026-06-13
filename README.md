@@ -28,7 +28,7 @@ I am interested in building intelligent systems that understand, reason, and act
 <tr>
 <td width="50%" valign="top">
 
-### Shapley-guided Multimodal Reinforcement Learning for Autonomous Driving
+### [Shapley-guided Multimodal Reinforcement Learning for Autonomous Driving](https://github.com/thddydgnl/rcs-ac-04-final)
 
 **Summary**  
 Faculty-supervised research project on robust reinforcement learning-based autonomous driving with multimodal sensor fusion.
@@ -44,13 +44,16 @@ Python, PyTorch, Stable-Baselines3, CARLA, Sensor Fusion, Reinforcement Learning
 - Used RGB, LiDAR, route, and ego-state inputs for reinforcement learning.
 - Related manuscript submitted to KIISE Transactions on Computing Practices (KTCP), 2026.
 
+**Repositories**  
+[Main Implementation](https://github.com/thddydgnl/rcs-ac-04-final) | [Experiments](https://github.com/thddydgnl/rcs-ac-03-experiments) | [Prototype](https://github.com/thddydgnl/rcs-ac-01-prototype)
+
 **Period**  
 Jun. 2025 - Jun. 2026
 
 </td>
 <td width="50%" valign="top">
 
-### Solar TutorBoard: AI-Powered Personalized Learning Platform
+### [Solar TutorBoard: AI-Powered Personalized Learning Platform](https://github.com/thddydgnl/solar-tutorboard)
 
 **Summary**  
 Educational AI platform built for the Upstage MixUp Agent Hackathon.
@@ -66,6 +69,9 @@ AI Agents, Backend Infrastructure, Python
 - Built backend infrastructure for personalized tutoring features.
 - Developed the project within a hackathon environment.
 
+**Repository**  
+[solar-tutorboard](https://github.com/thddydgnl/solar-tutorboard)
+
 **Period**  
 May. 2026 - May. 2026
 
@@ -79,9 +85,9 @@ May. 2026 - May. 2026
 
 | Project | Description | Tech |
 |---|---|---|
-| Multi-Agent Vehicle Trajectory Prediction on Argoverse 2 | Implemented trajectory prediction models using the Argoverse 2 Motion Forecasting dataset. | Python, Argoverse 2, Motion Forecasting |
-| Comparative Survey of Reinforcement Learning Research for Autonomous Driving | Analyzed 93 reinforcement learning-based autonomous driving studies and summarized key research trends. | Reinforcement Learning, Autonomous Driving, Survey |
-| WiFi CSI-based Patient Monitoring System | Designed a fall detection and respiration monitoring system using WiFi CSI and deep learning. | WiFi CSI, Deep Learning, Patient Monitoring |
+| [Multi-Agent Vehicle Trajectory Prediction on Argoverse 2](https://github.com/thddydgnl/vehicle-trajectory-prediction-av2) | Implemented trajectory prediction models using the Argoverse 2 Motion Forecasting dataset. | Python, Argoverse 2, Motion Forecasting |
+| Comparative Survey of Reinforcement Learning Research for Autonomous Driving | Analyzed 93 reinforcement learning-based autonomous driving studies and summarized key research trends. Supporting tool: [survey_webform](https://github.com/thddydgnl/survey_webform). | Reinforcement Learning, Autonomous Driving, Survey |
+| [WiFi CSI-based Patient Monitoring System](https://github.com/thddydgnl/hospital-fall-detection-wifi-csi) | Designed a fall detection and respiration monitoring system using WiFi CSI and deep learning. | WiFi CSI, Deep Learning, Patient Monitoring |
 
 ---
 
