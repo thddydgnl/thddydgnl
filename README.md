@@ -24,12 +24,12 @@ I am interested in building intelligent systems that understand, reason, and act
 
 ---
 
-## Research Interests
+## 📌 Research Interests
 
-![Large/Small Language Models](https://img.shields.io/badge/Large%2FSmall%20Language%20Models-2563EB?style=for-the-badge)
-![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-7C3AED?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-059669?style=for-the-badge)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-DC2626?style=for-the-badge)
+- 📌 Large/Small Language Models
+- 📌 Natural Language Processing
+- 📌 AI Agents
+- 📌 Reinforcement Learning
 
 ---
 
