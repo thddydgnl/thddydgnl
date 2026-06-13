@@ -15,9 +15,13 @@
 
 > *"Building intelligent systems that understand, reason, and act through language and learning."*
 
-- 🎓 **B.S. Candidate in Information & Communication Engineering**, Chungbuk National University (Mar. 2023 – Present)
+| Activity | Period |
+| :--- | :--- |
+| 🎓 **B.S. Candidate in Information & Communication Engineering**, Chungbuk National University | Mar. 2023 – Present |
+| 🔬 **Research Student**, Multimedia Information Processing (MIP) Laboratory | Mar. 2025 – Jun. 2026 |
+| 🧠 **Advanced Division Leader**, HyperCore AI & Data Analytics Club | Jan. 2026 – Present |
+
 - 🔭 Preparing for **graduate study in AI/NLP**
-- 📚 Interested in Large/Small Language Models, NLP, AI Agents, and Reinforcement Learning
 
 ---
 
