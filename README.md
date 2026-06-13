@@ -25,9 +25,9 @@
 | Area | Keywords |
 | :--- | :--- |
 | **Language Models** | Large / Small Language Models |
-| **Natural Language Processing** | Language understanding & generation |
+| **Natural Language Processing** | Language understanding, generation, and reasoning |
 | **AI Agents** | Agent-based autonomous systems |
-| **Reinforcement Learning** | Applications in autonomous systems |
+| **Reinforcement Learning** | Policy learning for autonomous systems |
 
 ---
 
