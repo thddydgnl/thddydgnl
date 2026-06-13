@@ -15,9 +15,9 @@
 
 > *"Building intelligent systems that understand, reason, and act through language and learning."*
 
-- 🎓 **B.S. Candidate in Information & Communication Engineering**, Chungbuk National University<br><sub>Mar. 2023 – Present</sub>
-- 🔬 **Research Student**, Multimedia Information Processing (MIP) Laboratory<br><sub>Mar. 2025 – Jun. 2026</sub>
-- 🧠 **Advanced Division Leader**, HyperCore AI & Data Analytics Club<br><sub>Jan. 2026 – Present</sub>
+- **B.S. Candidate in Information & Communication Engineering**, Chungbuk National University<br><sub>Mar. 2023 – Present</sub>
+- **Research Student**, Multimedia Information Processing (MIP) Laboratory<br><sub>Mar. 2025 – Jun. 2026</sub>
+- **Advanced Division Leader**, HyperCore AI & Data Analytics Club<br><sub>Jan. 2026 – Present</sub>
 - 🔭 Preparing for **graduate study in AI/NLP**
 
 ---
@@ -42,32 +42,32 @@
 ### 🚗 [Autonomous Driving Research](https://github.com/thddydgnl/rcs-ac-04-final)
 ![Status](https://img.shields.io/badge/Status-Active-2EA043?style=flat-square) ![Period](https://img.shields.io/badge/Jun%202025%20–%20Jun%202026-555?style=flat-square) ![Role](https://img.shields.io/badge/Faculty--Supervised-4A6FA5?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Main%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/rcs-ac-04-final)
 
-#### 📌 Overview
+#### Overview
 
 - Faculty-supervised research project on robust reinforcement learning-based autonomous driving with multimodal sensor fusion.
 - Implemented a Shapley-guided multimodal fusion pipeline using RGB, LiDAR, route, and ego-state observations.
 
-#### 🧑‍💻 My Contribution
+#### My Contribution
 
 - Designed and implemented the multimodal fusion structure.
 - Built the reinforcement learning pipeline and experiment workflow for contribution-guided sensor fusion.
 
-#### ✨ Highlights
+#### Highlights
 - Built a sensor fusion pipeline for RGB, LiDAR, route, and ego-state inputs.
 - Organized the project into prototype, experiment, and final implementation repositories.
 - Related manuscript submitted to KIISE Transactions on Computing Practices (KTCP), 2026.
 
-#### 🔗 Links
+#### Links
 
 - [Main Implementation](https://github.com/thddydgnl/rcs-ac-04-final)
 - [Experiments](https://github.com/thddydgnl/rcs-ac-03-experiments)
 - [Prototype](https://github.com/thddydgnl/rcs-ac-01-prototype)
 
-#### 🗓️ Period
+#### Period
 
 Jun. 2025 – Jun. 2026
 
-#### 🧰 Stack
+#### Stack
 
 `Python` · `PyTorch` · `Stable-Baselines3` · `CARLA` · `Reinforcement Learning`
 
@@ -76,30 +76,30 @@ Jun. 2025 – Jun. 2026
 ### 🎓 [Educational AI Platform](https://github.com/thddydgnl/solar-tutorboard)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-DBAB0A?style=flat-square) ![Type](https://img.shields.io/badge/LLM%20Agent-4A6FA5?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/solar-tutorboard)
 
-#### 📌 Overview
+#### Overview
 
 - Solar Pro3-based AI agent service for tutor lesson reports, payment reminders, schedule coordination, and parent communication.
 - Built an educational AI service that helps tutors manage lesson records and parent-facing communication through LLM agents.
 
-#### 🧑‍💻 My Contribution
+#### My Contribution
 
 - Implemented AI-agent workflows and backend infrastructure.
 - Connected structured agent outputs to the service flow for tutoring operations.
 
-#### ✨ Highlights
+#### Highlights
 - Designed agents for lesson reports, parent communication, payment reminders, and schedule coordination.
 - Used structured JSON-style outputs to connect LLM reasoning with application features.
 - Developed as part of the Upstage MixUp Agent Hackathon.
 
-#### 🔗 Links
+#### Links
 
 - [Repository](https://github.com/thddydgnl/solar-tutorboard)
 
-#### 🗓️ Period
+#### Period
 
 May. 2026
 
-#### 🧰 Stack
+#### Stack
 
 `LLM Agent` · `Solar Pro3` · `Python` · `TypeScript` · `Supabase`
 
@@ -108,30 +108,30 @@ May. 2026
 ### 📈 [Trajectory Forecasting](https://github.com/thddydgnl/vehicle-trajectory-prediction-av2)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-DBAB0A?style=flat-square) ![Type](https://img.shields.io/badge/Research-4A6FA5?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/vehicle-trajectory-prediction-av2)
 
-#### 📌 Overview
+#### Overview
 
 - End-to-end trajectory forecasting project on the Argoverse 2 Motion Forecasting dataset.
 - Implemented a forecasting pipeline that predicts future vehicle and pedestrian trajectories from past motion histories.
 
-#### 🧑‍💻 My Contribution
+#### My Contribution
 
 - Built data processing, model training, evaluation, and visualization workflows.
 - Compared multiple forecasting approaches under a consistent experimental setup.
 
-#### ✨ Highlights
+#### Highlights
 - Compared Linear, LSTM, Transformer, Direct Diffusion, and PCA Latent Diffusion models.
 - Evaluated models with common trajectory forecasting metrics and visual analysis.
 - Focused on reproducible end-to-end implementation rather than leaderboard-only tuning.
 
-#### 🔗 Links
+#### Links
 
 - [Repository](https://github.com/thddydgnl/vehicle-trajectory-prediction-av2)
 
-#### 🗓️ Period
+#### Period
 
 Mar. 2026 – Jun. 2026
 
-#### 🧰 Stack
+#### Stack
 
 `Python` · `PyTorch` · `Argoverse 2` · `LSTM` · `Transformer` · `Diffusion Models`
 
@@ -140,30 +140,30 @@ Mar. 2026 – Jun. 2026
 ### 🩺 [Healthcare IoT](https://github.com/thddydgnl/hospital-fall-detection-wifi-csi)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-DBAB0A?style=flat-square) ![Type](https://img.shields.io/badge/Deep%20Learning-4A6FA5?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/hospital-fall-detection-wifi-csi)
 
-#### 📌 Overview
+#### Overview
 
 - WiFi CSI-based patient monitoring MVP for bed-state classification, fall-risk event detection, and respiration monitoring.
 - Designed a camera-free monitoring system that uses wireless channel changes around a hospital bed to detect patient state and risk events.
 
-#### 🧑‍💻 My Contribution
+#### My Contribution
 
 - Built the MVP pipeline for CSI window features, model comparison, and monitoring-oriented classification.
 - Organized the system around practical privacy-preserving patient monitoring scenarios.
 
-#### ✨ Highlights
+#### Highlights
 - Classified bed-related states such as lying, standing, moving, leaving bed, and fall-like risk events.
 - Used WiFi CSI signals as a privacy-preserving alternative to camera-based monitoring.
 - Explored lightweight deep learning models for practical monitoring scenarios.
 
-#### 🔗 Links
+#### Links
 
 - [Repository](https://github.com/thddydgnl/hospital-fall-detection-wifi-csi)
 
-#### 🗓️ Period
+#### Period
 
 Apr. 2026 – Present
 
-#### 🧰 Stack
+#### Stack
 
 `Python` · `WiFi CSI` · `Deep Learning` · `TinyTransformer` · `Signal Processing`
 
