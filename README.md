@@ -5,7 +5,7 @@
 B.S. Candidate in Information and Communication Engineering  
 Prospective Graduate Student in AI / NLP
 
-Interested in Large/Small Language Models, Natural Language Processing, AI Agents, and Reinforcement Learning.
+I am interested in building intelligent systems that understand, reason, and act through language and learning.
 
 [Email](mailto:thddydgnl1937@gmail.com) | [GitHub](https://github.com/thddydgnl)
 
