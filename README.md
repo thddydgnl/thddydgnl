@@ -39,7 +39,7 @@
 
 </div>
 
-### 🚗 [Autonomous Driving Research](https://github.com/thddydgnl/rcs-ac-04-final)
+### 🚗 [Shapley-guided Multimodal Reinforcement Learning for Autonomous Driving](https://github.com/thddydgnl/rcs-ac-04-final)
 ![Status](https://img.shields.io/badge/Status-Active-2EA043?style=flat-square) ![Period](https://img.shields.io/badge/Jun%202025%20–%20Jun%202026-555?style=flat-square) ![Role](https://img.shields.io/badge/Faculty--Supervised-4A6FA5?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Main%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/rcs-ac-04-final)
 
 #### Overview
@@ -57,7 +57,7 @@
 - Organized the project into prototype, experiment, and final implementation repositories.
 - Related manuscript submitted to KIISE Transactions on Computing Practices (KTCP), 2026.
 
-#### Links
+#### Repositories
 
 - [Main Implementation](https://github.com/thddydgnl/rcs-ac-04-final)
 - [Experiments](https://github.com/thddydgnl/rcs-ac-03-experiments)
@@ -73,7 +73,7 @@ Jun. 2025 – Jun. 2026
 
 ---
 
-### 🎓 [Educational AI Platform](https://github.com/thddydgnl/solar-tutorboard)
+### 🎓 [Solar TutorBoard: AI-Powered Personalized Learning Platform](https://github.com/thddydgnl/solar-tutorboard)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-DBAB0A?style=flat-square) ![Type](https://img.shields.io/badge/LLM%20Agent-4A6FA5?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/solar-tutorboard)
 
 #### Overview
@@ -91,9 +91,9 @@ Jun. 2025 – Jun. 2026
 - Used structured JSON-style outputs to connect LLM reasoning with application features.
 - Developed as part of the Upstage MixUp Agent Hackathon.
 
-#### Links
+#### Repository
 
-- [Repository](https://github.com/thddydgnl/solar-tutorboard)
+- [solar-tutorboard](https://github.com/thddydgnl/solar-tutorboard)
 
 #### Period
 
@@ -105,7 +105,7 @@ May. 2026
 
 ---
 
-### 📈 [Trajectory Forecasting](https://github.com/thddydgnl/vehicle-trajectory-prediction-av2)
+### 📈 [Multi-Agent Vehicle Trajectory Prediction on Argoverse 2](https://github.com/thddydgnl/vehicle-trajectory-prediction-av2)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-DBAB0A?style=flat-square) ![Type](https://img.shields.io/badge/Research-4A6FA5?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/vehicle-trajectory-prediction-av2)
 
 #### Overview
@@ -123,9 +123,9 @@ May. 2026
 - Evaluated models with common trajectory forecasting metrics and visual analysis.
 - Focused on reproducible end-to-end implementation rather than leaderboard-only tuning.
 
-#### Links
+#### Repository
 
-- [Repository](https://github.com/thddydgnl/vehicle-trajectory-prediction-av2)
+- [vehicle-trajectory-prediction-av2](https://github.com/thddydgnl/vehicle-trajectory-prediction-av2)
 
 #### Period
 
@@ -137,7 +137,7 @@ Mar. 2026 – Jun. 2026
 
 ---
 
-### 🩺 [Healthcare IoT](https://github.com/thddydgnl/hospital-fall-detection-wifi-csi)
+### 🩺 [WiFi CSI-based Patient Monitoring System](https://github.com/thddydgnl/hospital-fall-detection-wifi-csi)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-DBAB0A?style=flat-square) ![Type](https://img.shields.io/badge/Deep%20Learning-4A6FA5?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/hospital-fall-detection-wifi-csi)
 
 #### Overview
@@ -155,9 +155,9 @@ Mar. 2026 – Jun. 2026
 - Used WiFi CSI signals as a privacy-preserving alternative to camera-based monitoring.
 - Explored lightweight deep learning models for practical monitoring scenarios.
 
-#### Links
+#### Repository
 
-- [Repository](https://github.com/thddydgnl/hospital-fall-detection-wifi-csi)
+- [hospital-fall-detection-wifi-csi](https://github.com/thddydgnl/hospital-fall-detection-wifi-csi)
 
 #### Period
 
