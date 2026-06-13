@@ -26,10 +26,10 @@ I am interested in building intelligent systems that understand, reason, and act
 
 ## 📌 Research Interests
 
-- 📌 Large/Small Language Models
-- 📌 Natural Language Processing
-- 📌 AI Agents
-- 📌 Reinforcement Learning
+- Large/Small Language Models
+- Natural Language Processing
+- AI Agents
+- Reinforcement Learning
 
 ---
 
