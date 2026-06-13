@@ -233,5 +233,5 @@ Apr. 2026 – Present
 
 ## 📫 Contact
 
-- Email: <thddydgnl1937@gmail.com>
-- GitHub: <https://github.com/thddydgnl>
+- Email: [thddydgnl1937@gmail.com](mailto:thddydgnl1937@gmail.com)
+- GitHub: [github.com/thddydgnl](https://github.com/thddydgnl)
