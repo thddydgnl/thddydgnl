@@ -1,12 +1,13 @@
 <div align="center">
 
-# Yong Hwi
+# YongHwi Song
 
-Prospective Graduate Student | AI / Software Engineering
+B.S. Candidate in Information and Communication Engineering  
+Prospective Graduate Student in AI / NLP
 
 Interested in Large/Small Language Models, Natural Language Processing, AI Agents, and Reinforcement Learning.
 
-[Email](mailto:TODO) | [Blog](TODO) | [LinkedIn](TODO) | [GitHub](https://github.com/thddydgnl)
+[Email](mailto:thddydgnl1937@gmail.com) | [GitHub](https://github.com/thddydgnl)
 
 </div>
 
@@ -27,44 +28,46 @@ Interested in Large/Small Language Models, Natural Language Processing, AI Agent
 <tr>
 <td width="50%" valign="top">
 
-### Project 1: TODO
+### Shapley-guided Multimodal Reinforcement Learning for Autonomous Driving
 
 **Summary**  
-TODO: Describe the problem, approach, and outcome in 1-2 sentences.
+Faculty-supervised research project on robust reinforcement learning-based autonomous driving with multimodal sensor fusion.
 
 **My Role**  
-TODO: Explain your contribution, such as model design, backend implementation, data processing, experiment design, or deployment.
+Implemented Shapley-guided multimodal fusion using RGB, LiDAR, route, and ego-state inputs.
 
 **Tech Stack**  
-TODO: Python, PyTorch, FastAPI, Docker, AWS, etc.
+Python, PyTorch, Stable-Baselines3, CARLA, Sensor Fusion, Reinforcement Learning
 
 **Highlights**
-- TODO: Key technical point
-- TODO: Experiment, metric, or result
-- TODO: What you learned or improved
+- Explored contribution-guided fusion for multimodal autonomous driving agents.
+- Used RGB, LiDAR, route, and ego-state inputs for reinforcement learning.
+- Related manuscript submitted to KIISE Transactions on Computing Practices (KTCP), 2026.
 
-[Repository](TODO) | [Report](TODO) | [Demo](TODO)
+**Period**  
+Jun. 2025 - Jun. 2026
 
 </td>
 <td width="50%" valign="top">
 
-### Project 2: TODO
+### Solar TutorBoard: AI-Powered Personalized Learning Platform
 
 **Summary**  
-TODO: Describe the problem, approach, and outcome in 1-2 sentences.
+Educational AI platform built for the Upstage MixUp Agent Hackathon.
 
 **My Role**  
-TODO: Explain your contribution, such as model design, backend implementation, data processing, experiment design, or deployment.
+Built AI-agent workflows and backend infrastructure for personalized learning support.
 
 **Tech Stack**  
-TODO: Python, Java, Spring Boot, React, MySQL, etc.
+AI Agents, Backend Infrastructure, Python
 
 **Highlights**
-- TODO: Key technical point
-- TODO: Experiment, metric, or result
-- TODO: What you learned or improved
+- Designed agent-based workflows for an educational AI service.
+- Built backend infrastructure for personalized tutoring features.
+- Developed the project within a hackathon environment.
 
-[Repository](TODO) | [Report](TODO) | [Demo](TODO)
+**Period**  
+May. 2026 - May. 2026
 
 </td>
 </tr>
@@ -76,39 +79,70 @@ TODO: Python, Java, Spring Boot, React, MySQL, etc.
 
 | Project | Description | Tech |
 |---|---|---|
-| TODO | TODO: Short project description | TODO |
-| TODO | TODO: Short project description | TODO |
-| TODO | TODO: Short project description | TODO |
+| Multi-Agent Vehicle Trajectory Prediction on Argoverse 2 | Implemented trajectory prediction models using the Argoverse 2 Motion Forecasting dataset. | Python, Argoverse 2, Motion Forecasting |
+| Comparative Survey of Reinforcement Learning Research for Autonomous Driving | Analyzed 93 reinforcement learning-based autonomous driving studies and summarized key research trends. | Reinforcement Learning, Autonomous Driving, Survey |
+| WiFi CSI-based Patient Monitoring System | Designed a fall detection and respiration monitoring system using WiFi CSI and deep learning. | WiFi CSI, Deep Learning, Patient Monitoring |
+
+---
+
+## Research Experience
+
+- Research Student, Multimedia Information Processing (MIP) Laboratory, Chungbuk National University, Korea (Mar. 2025 - Present)
+  - Research on autonomous driving and multimodal reinforcement learning.
+- Advanced Division Leader, Applied Machine Learning Division, HyperCore AI & Data Analytics Club, Korea (Jan. 2026 - Present)
+  - Led machine learning study sessions and supported AI project development.
+
+---
+
+## Research Manuscripts
+
+- **Under Review**: Song, YongHwi*, [Co-authors]. "Shapley-style Contribution-Guided Sensor Fusion for Robust Reinforcement Learning-Based Autonomous Driving." Submitted to KIISE Transactions on Computing Practices (KTCP), 2026. *First author.
+- **In Preparation**: Song, YongHwi*. "A Comparative Survey of Domestic and International Reinforcement Learning Research for Autonomous Driving." Manuscript in preparation, 2026.
+
+---
+
+## Publication
+
+- Hyeban Namgung, Kuk Seorin, Park Geonwoo, Bae Seohyun, Song Yonghwi, Lee Hyesong, Han Jian, Hyojoong Kim, "A Comparative Study on the Prevalence of Forensic Flies Using Chicken Corpse", Journal of Science Education for the Gifted, 2020.
 
 ---
 
 ## Technical Skills
 
-**Languages**  
-TODO: Python, Java, JavaScript, SQL
+**Programming**  
+Python, C/C++, Java
 
-**ML / Data**  
-TODO: PyTorch, TensorFlow, scikit-learn, pandas, NumPy
+**Machine Learning Frameworks**  
+PyTorch, TensorFlow, Scikit-learn, Stable-Baselines3
 
-**Backend / Infrastructure**  
-TODO: Spring Boot, FastAPI, Docker, AWS, MySQL, Redis
+**AI & Machine Learning**  
+Reinforcement Learning, Deep Learning, Multimodal Learning, Computer Vision, Large Language Models, AI Agents, Trajectory Prediction
 
-**Tools**  
-TODO: Git, GitHub, Linux, Notion, VS Code
+**Autonomous Driving**  
+CARLA, Argoverse 2, Motion Forecasting, Sensor Fusion
+
+**Development**  
+Git, Linux, FastAPI, Android
 
 ---
 
-## Education & Activities
+## Education
 
-- TODO: University, major, expected graduation date
-- TODO: Lab, club, internship, research assistant, or academic activity
-- TODO: Relevant coursework, awards, publications, or reports
+- B.S. Candidate, School of Information and Communication Engineering, Chungbuk National University, Korea (Mar. 2023 - Present)
+- GPA: 3.85 / 4.5
+
+---
+
+## Awards & Honors
+
+- Research Laboratory Assistant, Chungbuk National University, Korea (Sep. 2025 - Mar. 2026)
+- Academic Excellence Scholarship, Chungbuk National University, Korea (Mar. 2026)
+- Academic Excellence Scholarship, Chungbuk National University, Korea (Mar. 2024)
+- Academic Excellence Scholarship, Chungbuk National University, Korea (Sep. 2023)
 
 ---
 
 ## Contact
 
-- Email: TODO
-- Blog: TODO
-- LinkedIn: TODO
+- Email: <thddydgnl1937@gmail.com>
 - GitHub: <https://github.com/thddydgnl>
