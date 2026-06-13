@@ -4,7 +4,7 @@
 
 Prospective Graduate Student | AI / Software Engineering
 
-Interested in TODO: research areas, methods, and application domains.
+Interested in Large/Small Language Models, Natural Language Processing, AI Agents, and Reinforcement Learning.
 
 [Email](mailto:TODO) | [Blog](TODO) | [LinkedIn](TODO) | [GitHub](https://github.com/thddydgnl)
 
@@ -14,9 +14,10 @@ Interested in TODO: research areas, methods, and application domains.
 
 ## Research Interests
 
-- TODO: Primary research interest
-- TODO: Secondary research interest
-- TODO: Applied domain or problem you care about
+- Large Language Models and Small Language Models
+- Natural Language Processing
+- AI Agents
+- Reinforcement Learning
 
 ---
 
@@ -111,4 +112,3 @@ TODO: Git, GitHub, Linux, Notion, VS Code
 - Blog: TODO
 - LinkedIn: TODO
 - GitHub: <https://github.com/thddydgnl>
-
