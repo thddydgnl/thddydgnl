@@ -151,6 +151,7 @@ Sep. 2025 ~ Present
 
 ## 🏆 Awards & Honors
 
+- Undergraduate Research Assistant Scholarship, Chungbuk National University, Korea (Sep. 2025 ~ Mar. 2026)
 - Academic Excellence Scholarship, Chungbuk National University, Korea (Mar. 2026)
 - Academic Excellence Scholarship, Chungbuk National University, Korea (Mar. 2024)
 - Academic Excellence Scholarship, Chungbuk National University, Korea (Sep. 2023)
