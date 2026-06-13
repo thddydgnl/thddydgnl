@@ -33,30 +33,6 @@ I am interested in building intelligent systems that understand, reason, and act
 
 ---
 
-## ✨ Tech Stack ✨
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-1D4ED8?style=for-the-badge)
-![CARLA](https://img.shields.io/badge/CARLA-111827?style=for-the-badge)
-![Argoverse 2](https://img.shields.io/badge/Argoverse%202-0F766E?style=for-the-badge)
-
----
-
-## 🛠️ Tools 🛠️
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
----
-
 ## 🚀 Projects
 
 ### 🔹 [Shapley-guided Multimodal Reinforcement Learning for Autonomous Driving](https://github.com/thddydgnl/rcs-ac-04-final) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/rcs-ac-04-final)
@@ -125,6 +101,30 @@ Apr. 2026 ~ Present
 
 **Project Period**  
 Sep. 2025 ~ Present
+
+---
+
+## ✨ Tech Stack ✨
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-1D4ED8?style=for-the-badge)
+![CARLA](https://img.shields.io/badge/CARLA-111827?style=for-the-badge)
+![Argoverse 2](https://img.shields.io/badge/Argoverse%202-0F766E?style=for-the-badge)
+
+---
+
+## 🛠️ Tools 🛠️
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
