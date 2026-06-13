@@ -233,8 +233,7 @@ Apr. 2026 – Present
 
 ---
 
-<div align="center">
+## Contact
 
-*Building intelligent systems that understand, reason, and act.*
-
-</div>
+- Email: <thddydgnl1937@gmail.com>
+- GitHub: <https://github.com/thddydgnl>
