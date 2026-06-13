@@ -18,7 +18,7 @@ I am interested in building intelligent systems that understand, reason, and act
 
 | Activity | Period |
 |---|---|
-| Research Student, Multimedia Information Processing (MIP) Laboratory | Jun. 2026 ~ Present |
+| Research Student, Multimedia Information Processing (MIP) Laboratory | Mar. 2025 ~ Jun. 2026 |
 | Advanced Division Leader, HyperCore AI & Data Analytics Club | Jan. 2026 ~ Present |
 | B.S. Candidate, Chungbuk National University | Mar. 2023 ~ Present |
 
