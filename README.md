@@ -38,7 +38,7 @@
 </div>
 
 ### 🚗 [Shapley-guided Multimodal Reinforcement Learning for Autonomous Driving](https://github.com/thddydgnl/rcs-ac-04-final)
-![Status](https://img.shields.io/badge/Status-Active-2EA043?style=flat-square) ![Period](https://img.shields.io/badge/Jun%202025%20–%20Jun%202026-555?style=flat-square) ![Role](https://img.shields.io/badge/Faculty--Supervised-4A6FA5?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Main%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/rcs-ac-04-final)
+![Status](https://img.shields.io/badge/Status-Completed-8957E5?style=flat-square) ![Period](https://img.shields.io/badge/Jun%202025%20–%20Jun%202026-555?style=flat-square) ![Role](https://img.shields.io/badge/Faculty--Supervised-4A6FA5?style=flat-square) ![Paper](https://img.shields.io/badge/Paper-Under%20Review-DBAB0A?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Main%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/rcs-ac-04-final)
 
 #### Overview
 
@@ -72,7 +72,7 @@ Jun. 2025 – Jun. 2026
 ---
 
 ### 🎓 [Solar TutorBoard: AI-Powered Personalized Learning Platform](https://github.com/thddydgnl/solar-tutorboard)
-![Status](https://img.shields.io/badge/Status-In%20Progress-DBAB0A?style=flat-square) ![Type](https://img.shields.io/badge/LLM%20Agent-4A6FA5?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/solar-tutorboard)
+![Status](https://img.shields.io/badge/Status-Completed-8957E5?style=flat-square) ![Type](https://img.shields.io/badge/LLM%20Agent-4A6FA5?style=flat-square) ![Event](https://img.shields.io/badge/Hackathon-MixUp%202026-DBAB0A?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/solar-tutorboard)
 
 #### Overview
 
@@ -104,7 +104,7 @@ May. 2026
 ---
 
 ### 📈 [Multi-Agent Vehicle Trajectory Prediction on Argoverse 2](https://github.com/thddydgnl/vehicle-trajectory-prediction-av2)
-![Status](https://img.shields.io/badge/Status-In%20Progress-DBAB0A?style=flat-square) ![Type](https://img.shields.io/badge/Research-4A6FA5?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/vehicle-trajectory-prediction-av2)
+![Status](https://img.shields.io/badge/Status-Completed-8957E5?style=flat-square) ![Type](https://img.shields.io/badge/Research-4A6FA5?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/vehicle-trajectory-prediction-av2)
 
 #### Overview
 
@@ -136,7 +136,7 @@ Mar. 2026 – Jun. 2026
 ---
 
 ### 🩺 [WiFi CSI-based Patient Monitoring System](https://github.com/thddydgnl/hospital-fall-detection-wifi-csi)
-![Status](https://img.shields.io/badge/Status-In%20Progress-DBAB0A?style=flat-square) ![Type](https://img.shields.io/badge/Deep%20Learning-4A6FA5?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/hospital-fall-detection-wifi-csi)
+![Status](https://img.shields.io/badge/Status-Active-2EA043?style=flat-square) ![Period](https://img.shields.io/badge/Apr%202026%20–%20Present-555?style=flat-square) ![Type](https://img.shields.io/badge/Deep%20Learning-4A6FA5?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thddydgnl/hospital-fall-detection-wifi-csi)
 
 #### Overview
 
