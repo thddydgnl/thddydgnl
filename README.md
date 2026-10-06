@@ -20,7 +20,7 @@ I am an undergraduate researcher in Information and Communication Engineering at
 
 ## Research Interests
 
-- **World Models and World Action Models**
+- **World Models and World Action Models (sync test)**
 - **Agentic AI and Tool-Using Language Models**
 - **Large and Small Language Models (LLMs/sLMs)**
 - **Multimodal Learning and Multimodal Foundation Models**
