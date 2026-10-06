@@ -16,7 +16,7 @@ I am an undergraduate researcher in Information and Communication Engineering at
 | Jun. 2026 – Present | **Research Intern**, Artificial Intelligence Laboratory (AI Lab), Chungbuk National University · Conducting research on agentic AI, tool-using language models, and efficient world/world-action models. |
 | Oct. 2026 – Present | **Researcher**, Hello, World! Season 2 — World Models Paper Review, Pseudo Lab (가짜연구소) · Reviewing World Models research papers, participating in technical discussions, and contributing structured review documents to the project website. |
 | Mar. 2025 – Jun. 2026 | **Research Intern**, Multimedia Information Processing (MIP) Laboratory, Chungbuk National University · Research on Autonomous Driving and Multimodal Reinforcement Learning. |
-| Jan. 2026 – Present | **Advanced Division Leader**, Applied Machine Learning Division, HyperCore AI & Data Analytics Club · Led machine learning study sessions and supported AI project development. |
+| Jan. 2026 – Present | **Advanced Division Leader**, Applied Machine Learning Division, HyperCore AI & Data Analytics Club · Leading machine learning study sessions and supporting AI project development. |
 
 ## Research Interests
 
@@ -79,7 +79,7 @@ Developed a local-first document agent for retrieving, connecting, and safely ed
 ### Comparative Survey of RL Research for Autonomous Driving
 
 **Independent Research Project · Sep. 2025 – Present**<br>
-Analyzed **93 RL-based autonomous driving studies** and summarized key research trends.
+Analyzing **93 RL-based autonomous driving studies** and summarizing key research trends.
 
 ### [Solar TutorBoard: AI-Powered Personalized Learning Platform](https://github.com/thddydgnl/solar-tutorboard)
 
