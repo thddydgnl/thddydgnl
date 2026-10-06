@@ -44,7 +44,9 @@ I am an undergraduate researcher in Information and Communication Engineering at
 - **K-PragShift: Diagnosing Korean Pragmatic Revisions in Tool-Using Language Models**<br>
   Song, YongHwi* · To be submitted to the **EACL 2027 Student Research Workshop**.
 - **Lightweight Action Readout from Multi-Level World Representations for Efficient DriveWAM**<br>
-  Song, YongHwi* and Lee, Keon Myung · Ongoing research toward a manuscript, 2026.
+  Song, YongHwi* and Lee, Keon Myung · To be submitted to **Transactions on Machine Learning Research (TMLR)**.
+- **Lightweight Action Readout from Multi-Level World Representations for Efficient DriveWAM**<br>
+  Song, YongHwi* and Lee, Keon Myung · To be submitted to the poster track of the **Korean Artificial Intelligence Association (KAIA) Conference**.
 - **A Comparative Survey of Domestic and International Reinforcement Learning Research for Autonomous Driving**<br>
   Song, YongHwi* · Manuscript in preparation, 2026.
 
