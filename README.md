@@ -1,3 +1,4 @@
+<!-- Auto-generated from thddydgnl/cv (cv.yaml + templates/readme.md.j2). Do not edit here — changes are overwritten. -->
 # YongHwi Song · 송용휘
 
 **B.S. Candidate · Chungbuk National University**<br>
@@ -12,10 +13,10 @@ I am an undergraduate researcher in Information and Communication Engineering at
 | Period | Role & Affiliation |
 | :--- | :--- |
 | Mar. 2023 – Present | **B.S. Candidate**, School of Information and Communication Engineering, Chungbuk National University · GPA **3.83 / 4.5** |
-| Jun. 2026 – Present | **Research Intern**, Artificial Intelligence Laboratory (AI Lab), Chungbuk National University · Agentic AI, tool-using language models, and efficient world/world-action models |
-| Oct. 2026 – Present | **Researcher**, Hello, World! Season 2 — World Models Paper Review, **Pseudo Lab (가짜연구소)** · Paper reviews, technical discussions, and structured review documents |
-| Mar. 2025 – Jun. 2026 | **Research Intern**, Multimedia Information Processing (MIP) Laboratory, Chungbuk National University · Autonomous driving and multimodal reinforcement learning |
-| Jan. 2026 – Present | **Advanced Division Leader**, Applied Machine Learning Division, HyperCore AI & Data Analytics Club · Machine learning study sessions and AI project development |
+| Jun. 2026 – Present | **Research Intern**, Artificial Intelligence Laboratory (AI Lab), Chungbuk National University · Conducting research on agentic AI, tool-using language models, and efficient world/world-action models. |
+| Oct. 2026 – Present | **Researcher**, Hello, World! Season 2 — World Models Paper Review, Pseudo Lab (가짜연구소) · Reviewing World Models research papers, participating in technical discussions, and contributing structured review documents to the project website. |
+| Mar. 2025 – Jun. 2026 | **Research Intern**, Multimedia Information Processing (MIP) Laboratory, Chungbuk National University · Research on Autonomous Driving and Multimodal Reinforcement Learning. |
+| Jan. 2026 – Present | **Advanced Division Leader**, Applied Machine Learning Division, HyperCore AI & Data Analytics Club · Led machine learning study sessions and supported AI project development. |
 
 ## Research Interests
 
@@ -55,44 +56,44 @@ I am an undergraduate researcher in Information and Communication Engineering at
 
 ### Lightweight Action Readout for Efficient DriveWAM
 
-**Research project · Jan. 2026 – Present**<br>
+**Research Project · Jan. 2026 – Present**<br>
 Investigating efficient action prediction by extracting lightweight action representations from multi-level world representations.
 
 ### [Shapley-guided Multimodal RL for Autonomous Driving](https://github.com/thddydgnl/rcs-ac-04-final)
 
-**Faculty-supervised research · Jun. 2025 – Jun. 2026**<br>
+**Faculty-Supervised Research Project · Jun. 2025 – Jun. 2026**<br>
 Implemented Shapley-guided multimodal fusion using RGB, LiDAR, route, and ego-state inputs.
 
 [Main implementation](https://github.com/thddydgnl/rcs-ac-04-final) · [Experiments](https://github.com/thddydgnl/rcs-ac-03-experiments) · [Prototype](https://github.com/thddydgnl/rcs-ac-01-prototype)
 
 ### [Multi-Agent Vehicle Trajectory Prediction on Argoverse 2](https://github.com/thddydgnl/vehicle-trajectory-prediction-av2)
 
-**Personal project · Mar. 2026 – Jun. 2026**<br>
+**Personal Project · Mar. 2026 – Jun. 2026**<br>
 Implemented trajectory prediction models using the Argoverse 2 Motion Forecasting dataset.
 
 ### Folding — Local-First Document Agent
 
-**Team project · Jul. 2026**<br>
+**Team Project · Jul. 2026**<br>
 Developed a local-first document agent for retrieving, connecting, and safely editing heterogeneous documents.
 
 ### Comparative Survey of RL Research for Autonomous Driving
 
-**Independent research · Sep. 2025 – Present**<br>
+**Independent Research Project · Sep. 2025 – Present**<br>
 Analyzed **93 RL-based autonomous driving studies** and summarized key research trends.
 
 ### [Solar TutorBoard: AI-Powered Personalized Learning Platform](https://github.com/thddydgnl/solar-tutorboard)
 
 **Upstage MixUp Agent Hackathon · May 2026**<br>
-Built AI-agent workflows and backend infrastructure for an educational AI platform, supporting lesson reports, payment reminders, and schedule coordination with Solar Pro3.
+Built AI-agent workflows and backend infrastructure for an educational AI platform.
 
 ## Competitions & Hackathons
 
 | Event | Result & Work |
 | :--- | :--- |
-| **LG Aimers 9th Cohort** · Aug. – Sep. 2026 | Advanced to Phase 2 Online AI Hackathon (**Top 20%**); predicted KBO pitch-control success probabilities from game context, player history, and tracking data |
-| **2026 NIKL AI-Malpyung — Argumentative Writing Scoring** · Jul. – Sep. 2026 | **23rd in the preliminary competition**; advanced to the **50-team final arena**; developed automated Korean argumentative writing evaluation |
-| **2026 CODEGATE AI Startup Hackathon** · Jul. 2026 | **Finalist**, one of approximately 20 teams selected for the offline hackathon and demo day; developed and validated an AI-based startup MVP |
-| **Upstage × BDAI Agent Development Hackathon** · 2026 | **Finalist** with Solar TutorBoard, a Solar Pro3-based multi-agent platform for tutoring operations |
+| **LG Aimers 9th Cohort** · Aug. – Sep. 2026 | Advanced to Phase 2 Online AI Hackathon (**Top 20%**). Worked on predicting pitch-control success probabilities from game context, player history, and tracking data. |
+| **2026 NIKL AI-Malpyung — Argumentative Writing Scoring** · Jul. – Sep. 2026 | Ranked **23rd in the preliminary competition** and advanced to the **50-team final arena**. Developed an AI system for automated evaluation of Korean argumentative writing. |
+| **2026 CODEGATE AI Startup Hackathon** · Jul. 2026 | **Finalist** · Selected as one of approximately 20 finalist teams for the offline hackathon and demo day. Participated in intensive development and validation of an AI-based startup MVP. |
+| **Upstage × BDAI Agent Development Hackathon** · 2026 | **Finalist** · Solar TutorBoard / Developed a Solar Pro3-based multi-agent platform for tutoring operations, including lesson reports, payment reminders, and schedule coordination. |
 
 ## Awards & Scholarships
 
@@ -105,8 +106,8 @@ Built AI-agent workflows and backend infrastructure for an educational AI platfo
 | :--- | :--- |
 | Programming | Python, C/C++, Java |
 | ML Frameworks | PyTorch, TensorFlow, scikit-learn, Stable-Baselines3 |
-| World Models & RL | World Models, World Action Models, Reinforcement Learning, Model-Based RL, Actor-Critic Methods, Multimodal Policy Learning |
-| LLMs & Agentic AI | LLMs/sLMs, Agentic AI, Tool-Using Language Models, Multi-Agent Systems, Structured LLM Outputs, Local LLM Inference |
+| World Models & RL | World Models, World Action Models, Reinforcement Learning, Model-Based Reinforcement Learning, Actor-Critic Methods, Multimodal Policy Learning |
+| LLMs & Agentic AI | Large/Small Language Models (LLMs/sLMs), Agentic AI, Tool-Using Language Models, Multi-Agent Systems, Structured LLM Outputs, Local LLM Inference |
 | Multimodal & Embodied AI | Multimodal Learning, Sensor Fusion, Computer Vision, Embodied AI, Physical AI, Trajectory Prediction |
 | Driving & Simulation | CARLA, Argoverse 2, ManiSkill, Motion Forecasting, Autonomous Driving, Robotic Manipulation |
 | AI Systems | Git, Linux, FastAPI, Supabase, Ollama, LM Studio, REST APIs |
@@ -114,4 +115,4 @@ Built AI-agent workflows and backend infrastructure for an educational AI platfo
 ---
 
 [Homepage](https://thddydgnl.github.io/) · [CV](https://thddydgnl.github.io/YongHwi_Song_CV.pdf) · [thddydgnl1937@gmail.com](mailto:thddydgnl1937@gmail.com)<br>
-Updated October 1, 2026.
+Updated October 6, 2026.
