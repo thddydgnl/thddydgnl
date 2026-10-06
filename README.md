@@ -39,7 +39,7 @@ I am an undergraduate researcher in Information and Communication Engineering at
 - **Shapley-style Contribution-Guided Sensor Fusion for Robust Reinforcement Learning-Based Autonomous Driving**<br>
   Song, YongHwi* · Submitted to **KIISE Transactions on Computing Practices (KTCP)**, 2026.
 - **A Decision Model as a World Model: Comparing JEV with Generative LLMs for LLM Agents**<br>
-  Song, YongHwi* · Submitted to the **2026 Fall Conference of the Korean Institute of Intelligent Systems (KIIS)**, 2026.
+  Song, YongHwi* and Lee, Keon Myung · Submitted to the **2026 Fall Conference of the Korean Institute of Intelligent Systems (KIIS)**, 2026.
 
 ### In Preparation
 
