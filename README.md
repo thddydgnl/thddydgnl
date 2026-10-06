@@ -34,8 +34,6 @@ I am an undergraduate researcher in Information and Communication Engineering at
 
 ### Under Review
 
-- **K-PragShift: Diagnosing Korean Pragmatic Revisions in Tool-Using Language Models**<br>
-  Song, YongHwi* · Under review at **ACL Rolling Review (ARR)**, August 2026.
 - **Shapley-style Contribution-Guided Sensor Fusion for Robust Reinforcement Learning-Based Autonomous Driving**<br>
   Song, YongHwi* · Submitted to **KIISE Transactions on Computing Practices (KTCP)**, 2026.
 - **A Decision Model as a World Model: Comparing JEV with Generative LLMs for LLM Agents**<br>
@@ -43,6 +41,8 @@ I am an undergraduate researcher in Information and Communication Engineering at
 
 ### In Preparation
 
+- **K-PragShift: Diagnosing Korean Pragmatic Revisions in Tool-Using Language Models**<br>
+  Song, YongHwi* · To be submitted to the **EACL 2027 Student Research Workshop**.
 - **Lightweight Action Readout from Multi-Level World Representations for Efficient DriveWAM**<br>
   Song, YongHwi* and Lee, Keon Myung · Ongoing research toward a manuscript, 2026.
 - **A Comparative Survey of Domestic and International Reinforcement Learning Research for Autonomous Driving**<br>
@@ -92,6 +92,8 @@ Implemented Shapley-guided multimodal fusion using RGB, LiDAR, route, and ego-st
 
 | Event | Result & Work |
 | :--- | :--- |
+| **2026 NASA Space Apps Challenge (Seoul)** · Nov. 2026, upcoming | Accepted as a participant in the Seoul Local Event with Team Moonkeeper. |
+| **KRAFTON AI R&D Hackathon** · Oct. 2026, in progress | Participating in the online R&D hackathon. |
 | **LG Aimers 9th Cohort** · Aug. – Sep. 2026 | Advanced to Phase 2 Online AI Hackathon (**Top 20%**). Worked on predicting pitch-control success probabilities from game context, player history, and tracking data. |
 | **2026 NIKL AI-Malpyung — Argumentative Writing Scoring** · Jul. – Sep. 2026 | Ranked **23rd in the preliminary competition** and advanced to the **50-team final arena**. Developed an AI system for automated evaluation of Korean argumentative writing. |
 | **2026 CODEGATE AI Startup Hackathon** · Jul. 2026 | **Finalist** · Selected as one of approximately 20 finalist teams for the offline hackathon and demo day. Participated in intensive development and validation of an AI-based startup MVP. |
