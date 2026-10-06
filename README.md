@@ -44,7 +44,7 @@ I am an undergraduate researcher in Information and Communication Engineering at
 ### In Preparation
 
 - **Lightweight Action Readout from Multi-Level World Representations for Efficient DriveWAM**<br>
-  Song, YongHwi* · Ongoing research toward a manuscript, 2026.
+  Song, YongHwi* and Lee, Keon Myung · Ongoing research toward a manuscript, 2026.
 - **A Comparative Survey of Domestic and International Reinforcement Learning Research for Autonomous Driving**<br>
   Song, YongHwi* · Manuscript in preparation, 2026.
 
