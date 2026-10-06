@@ -12,10 +12,15 @@ I am an undergraduate researcher in Information and Communication Engineering at
 
 | Period | Role & Affiliation |
 | :--- | :--- |
-| Mar. 2023 – Present | **B.S. Candidate**, School of Information and Communication Engineering, Chungbuk National University · GPA **3.83 / 4.5** |
-| Jun. 2026 – Present | **Research Intern**, Artificial Intelligence Laboratory (AI Lab), Chungbuk National University · Conducting research on agentic AI, tool-using language models, and efficient world/world-action models. |
+| Mar. 2023 – Feb. 2027 (Expected) | **B.S. Candidate**, School of Information and Communication Engineering, Chungbuk National University · GPA **3.83 / 4.5** |
+| Jun. 2026 – Present | **Research Intern**, Artificial Intelligence Laboratory (AI Lab), Chungbuk National University (Advisor: Prof. Keon Myung Lee) · Conducting research on agentic AI, tool-using language models, and efficient world/world-action models. |
+| Mar. 2025 – Jun. 2026 | **Research Intern**, Multimedia Information Processing (MIP) Laboratory, Chungbuk National University (Advisor: Prof. Hyun Soo Kang) · Research on Autonomous Driving and Multimodal Reinforcement Learning. |
+
+## Activities & Leadership
+
+| Period | Role & Organization |
+| :--- | :--- |
 | Oct. 2026 – Present | **Researcher**, Hello, World! Season 2 — World Models Paper Review, Pseudo Lab (가짜연구소) · Reviewing World Models research papers, participating in technical discussions, and contributing structured review documents to the project website. |
-| Mar. 2025 – Jun. 2026 | **Research Intern**, Multimedia Information Processing (MIP) Laboratory, Chungbuk National University · Research on Autonomous Driving and Multimodal Reinforcement Learning. |
 | Jan. 2026 – Present | **Advanced Division Leader**, Applied Machine Learning Division, HyperCore AI & Data Analytics Club · Leading machine learning study sessions and supporting AI project development. |
 
 ## Research Interests
@@ -33,6 +38,8 @@ I am an undergraduate researcher in Information and Communication Engineering at
   Song, YongHwi* · Under review at **ACL Rolling Review (ARR)**, August 2026.
 - **Shapley-style Contribution-Guided Sensor Fusion for Robust Reinforcement Learning-Based Autonomous Driving**<br>
   Song, YongHwi* · Submitted to **KIISE Transactions on Computing Practices (KTCP)**, 2026.
+- **A Decision Model as a World Model: Comparing JEV with Generative LLMs for LLM Agents**<br>
+  Song, YongHwi* · Submitted to the **2026 Fall Conference of the Korean Institute of Intelligent Systems (KIIS)**, 2026.
 
 ### In Preparation
 
@@ -40,11 +47,6 @@ I am an undergraduate researcher in Information and Communication Engineering at
   Song, YongHwi* · Ongoing research toward a manuscript, 2026.
 - **A Comparative Survey of Domestic and International Reinforcement Learning Research for Autonomous Driving**<br>
   Song, YongHwi* · Manuscript in preparation, 2026.
-
-### Conference Submission
-
-- **A Decision Model as a World Model: Comparing JEV with Generative LLMs for LLM Agents**<br>
-  Song, YongHwi* · Submitted to the **2026 Fall Conference of the Korean Institute of Intelligent Systems (KIIS)**, 2026.
 
 \* First author. Submitted work is listed with its current submission status.
 
@@ -54,10 +56,30 @@ I am an undergraduate researcher in Information and Communication Engineering at
 
 ## Selected Projects
 
+### Folding — Local-First Document Agent
+
+**Team Project · Jul. 2026**<br>
+Developed a local-first document agent for retrieving, connecting, and safely editing heterogeneous documents.
+
+### [Solar TutorBoard: AI-Powered Personalized Learning Platform](https://github.com/thddydgnl/solar-tutorboard)
+
+**Upstage MixUp Agent Hackathon · May 2026**<br>
+Built AI-agent workflows and backend infrastructure for an educational AI platform.
+
+### [Multi-Agent Vehicle Trajectory Prediction on Argoverse 2](https://github.com/thddydgnl/vehicle-trajectory-prediction-av2)
+
+**Personal Project · Mar. 2026 – Jun. 2026**<br>
+Implemented trajectory prediction models using the Argoverse 2 Motion Forecasting dataset.
+
 ### Lightweight Action Readout for Efficient DriveWAM
 
 **Research Project · Jan. 2026 – Present**<br>
 Investigating efficient action prediction by extracting lightweight action representations from multi-level world representations.
+
+### Comparative Survey of RL Research for Autonomous Driving
+
+**Independent Research Project · Sep. 2025 – Present**<br>
+Analyzing **93 RL-based autonomous driving studies** and summarizing key research trends.
 
 ### [Shapley-guided Multimodal RL for Autonomous Driving](https://github.com/thddydgnl/rcs-ac-04-final)
 
@@ -65,26 +87,6 @@ Investigating efficient action prediction by extracting lightweight action repre
 Implemented Shapley-guided multimodal fusion using RGB, LiDAR, route, and ego-state inputs.
 
 [Main implementation](https://github.com/thddydgnl/rcs-ac-04-final) · [Experiments](https://github.com/thddydgnl/rcs-ac-03-experiments) · [Prototype](https://github.com/thddydgnl/rcs-ac-01-prototype)
-
-### [Multi-Agent Vehicle Trajectory Prediction on Argoverse 2](https://github.com/thddydgnl/vehicle-trajectory-prediction-av2)
-
-**Personal Project · Mar. 2026 – Jun. 2026**<br>
-Implemented trajectory prediction models using the Argoverse 2 Motion Forecasting dataset.
-
-### Folding — Local-First Document Agent
-
-**Team Project · Jul. 2026**<br>
-Developed a local-first document agent for retrieving, connecting, and safely editing heterogeneous documents.
-
-### Comparative Survey of RL Research for Autonomous Driving
-
-**Independent Research Project · Sep. 2025 – Present**<br>
-Analyzing **93 RL-based autonomous driving studies** and summarizing key research trends.
-
-### [Solar TutorBoard: AI-Powered Personalized Learning Platform](https://github.com/thddydgnl/solar-tutorboard)
-
-**Upstage MixUp Agent Hackathon · May 2026**<br>
-Built AI-agent workflows and backend infrastructure for an educational AI platform.
 
 ## Competitions & Hackathons
 
@@ -97,8 +99,8 @@ Built AI-agent workflows and backend infrastructure for an educational AI platfo
 
 ## Awards & Scholarships
 
-- **Undergraduate Research Assistant Scholarship**, Chungbuk National University · Sep. 2025 – Mar. 2026
 - **Academic Excellence Scholarship**, Chungbuk National University · Mar. 2026, Mar. 2024, Sep. 2023
+- **Undergraduate Research Assistant Scholarship**, Chungbuk National University · Sep. 2025 – Mar. 2026
 
 ## Skills & Tools
 
