@@ -95,7 +95,8 @@ Implemented Shapley-guided multimodal fusion using RGB, LiDAR, route, and ego-st
 | Event | Result & Work |
 | :--- | :--- |
 | **2026 NASA Space Apps Challenge (Seoul)** · Nov. 2026, upcoming | Accepted as a participant in the Seoul Local Event with Team Moonkeeper. Planning a CLPS lunar mission explorer that visualizes landing sites, Sun/Earth visibility, power and communication windows, and mission timelines from NASA data. |
-| **KRAFTON AI R&D Hackathon — World-Action Model Track** · Oct. 2026, in progress | Participating individually in Track 3. Building a lightweight world-action model that infers hidden physics from pixels, imagines futures in latent space, and plans pendulum swing-up within the learned model. |
+| **SK hynix AI Hackathon 2026** · Oct. 2026, in progress | Passed the document screening round. |
+| **KRAFTON AI R&D Hackathon — Dream It Yourself, Video-Based Lightweight World-Action Model** · Oct. 2026, in progress | Participating individually in Track 3. Building a lightweight world-action model that infers hidden physics from pixels, imagines futures in latent space, and plans pendulum swing-up within the learned model. |
 | **LG Aimers 9th Cohort** · Aug. – Sep. 2026 | Advanced to Phase 2 Online AI Hackathon (**Top 20%**). Worked on predicting pitch-control success probabilities from game context, player history, and tracking data. |
 | **2026 NIKL AI-Malpyung — Argumentative Writing Scoring** · Jul. – Sep. 2026 | Ranked **23rd in the preliminary competition** and advanced to the **50-team final arena**. Developed an AI system for automated evaluation of Korean argumentative writing. |
 | **2026 CODEGATE AI Startup Hackathon** · Jul. 2026 | **Finalist** · Selected as one of approximately 20 finalist teams for the offline hackathon and demo day. Participated in intensive development and validation of an AI-based startup MVP. |
@@ -121,4 +122,4 @@ Implemented Shapley-guided multimodal fusion using RGB, LiDAR, route, and ego-st
 ---
 
 [Homepage](https://thddydgnl.github.io/) · [CV](https://thddydgnl.github.io/YongHwi_Song_CV.pdf) · [thddydgnl1937@gmail.com](mailto:thddydgnl1937@gmail.com)<br>
-Updated October 9, 2026.
+Updated October 10, 2026.
