@@ -20,7 +20,7 @@ I am an undergraduate researcher in Information and Communication Engineering at
 
 | Period | Role & Organization |
 | :--- | :--- |
-| Oct. 2026 – Present | **Researcher**, Hello, World! Season 2 — World Models Paper Review, Pseudo Lab (가짜연구소) · Reviewing World Models research papers, participating in technical discussions, and contributing structured review documents to the project website. |
+| Oct. 2026 – Present | **Researcher**, [Hello, World! Season 2 — World Models Paper Review](https://github.com/Pseudo-Lab/hello-world-models), Pseudo Lab (가짜연구소) · Reviewing World Models research papers, participating in technical discussions, and contributing structured review documents to the project website. |
 | Jan. 2026 – Present | **Advanced Division Leader**, Applied Machine Learning Division, HyperCore AI & Data Analytics Club · Leading machine learning study sessions and supporting AI project development. |
 
 ## Research Interests
@@ -122,4 +122,4 @@ Implemented Shapley-guided multimodal fusion using RGB, LiDAR, route, and ego-st
 ---
 
 [Homepage](https://thddydgnl.github.io/) · [CV](https://thddydgnl.github.io/YongHwi_Song_CV.pdf) · [thddydgnl1937@gmail.com](mailto:thddydgnl1937@gmail.com)<br>
-Updated October 10, 2026.
+Updated October 14, 2026.
