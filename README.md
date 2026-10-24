@@ -21,7 +21,7 @@ I am an undergraduate researcher in Information and Communication Engineering at
 | Period | Role & Organization |
 | :--- | :--- |
 | Oct. 2026 – Present | **Researcher**, [Hello, World! Season 2 — World Models Paper Review](https://github.com/Pseudo-Lab/hello-world-models), Pseudo Lab (가짜연구소) · Reviewing World Models research papers, participating in technical discussions, and contributing structured review documents to the project website. |
-| Jan. 2026 – Present | **Advanced Division Leader**, Applied Machine Learning Division, HyperCore AI & Data Analytics Club · Leading machine learning study sessions and supporting AI project development. |
+| Jan. 2026 – Sep. 2026 | **Advanced Division Leader**, Applied Machine Learning Division, HyperCore AI & Data Analytics Club · Led machine learning study sessions and supported AI project development. |
 
 ## Research Interests
 
