@@ -34,8 +34,6 @@ I am an undergraduate researcher in Information and Communication Engineering at
 
 ### Under Review
 
-- **Shapley-style Contribution-Guided Sensor Fusion for Robust Reinforcement Learning-Based Autonomous Driving**<br>
-  Song, YongHwi* · Submitted to **KIISE Transactions on Computing Practices (KTCP)**, 2026.
 - **A Decision Model as a World Model: Comparing JEV with Generative LLMs for LLM Agents**<br>
   Song, YongHwi* and Lee, Keon Myung · Submitted to the **2026 Fall Conference of the Korean Institute of Intelligent Systems (KIIS)**, 2026.
 
@@ -47,8 +45,6 @@ I am an undergraduate researcher in Information and Communication Engineering at
   Song, YongHwi* and Lee, Keon Myung · To be submitted to **Transactions on Machine Learning Research (TMLR)**.
 - **Lightweight Action Readout from Multi-Level World Representations for Efficient DriveWAM**<br>
   Song, YongHwi* and Lee, Keon Myung · To be submitted to the poster track of the **Korean Artificial Intelligence Association (KAIA) Conference**.
-- **A Comparative Survey of Domestic and International Reinforcement Learning Research for Autonomous Driving**<br>
-  Song, YongHwi* · Manuscript in preparation, 2026.
 
 \* First author. Submitted work is listed with its current submission status.
 
@@ -122,4 +118,4 @@ Implemented Shapley-guided multimodal fusion using RGB, LiDAR, route, and ego-st
 ---
 
 [Homepage](https://thddydgnl.github.io/) · [CV](https://thddydgnl.github.io/YongHwi_Song_CV.pdf) · [thddydgnl1937@gmail.com](mailto:thddydgnl1937@gmail.com)<br>
-Updated October 14, 2026.
+Updated October 24, 2026.
