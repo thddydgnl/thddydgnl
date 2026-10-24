@@ -36,7 +36,7 @@ I am an undergraduate researcher in Information and Communication Engineering at
 
 - **Planners Exploit Deterministic Error: Dithered Low-Bit World Models**<br>
   Song, YongHwi* and Lee, Keon Myung · Submitted to the **Korean Artificial Intelligence Association (KAIA) Conference** (poster), 2026.
-- **Near-Miss Blindness: World-Model Imagination Loses the Outcome Boundary**<br>
+- **Near-Miss Blindness: Latent World-Model Imagination Loses the Outcome Boundary**<br>
   Song, YongHwi* and Lee, Keon Myung · Submitted to the **Korean Artificial Intelligence Association (KAIA) Conference** (poster), 2026.
 - **Imagine Once, Act Fast: Lightweight Action Readout from a Frozen Driving World-Action Model**<br>
   Song, YongHwi* and Lee, Keon Myung · Submitted to the **Korean Artificial Intelligence Association (KAIA) Conference** (poster), 2026.
@@ -47,7 +47,7 @@ I am an undergraduate researcher in Information and Communication Engineering at
 
 - **Planners Exploit Deterministic Error: Dithered Low-Bit World Models**<br>
   Song, YongHwi* and Lee, Keon Myung · To be submitted to **Robotics: Science and Systems (RSS) 2027**.
-- **Near-Miss Blindness: World-Model Imagination Loses the Outcome Boundary**<br>
+- **Near-Miss Blindness: Latent World-Model Imagination Loses the Outcome Boundary**<br>
   Song, YongHwi* and Lee, Keon Myung · To be submitted to **Transactions on Machine Learning Research (TMLR)**.
 - **K-PragShift: Diagnosing Korean Pragmatic Revisions in Tool-Using Language Models**<br>
   Song, YongHwi* · To be submitted to the **EACL 2027 Student Research Workshop**.
