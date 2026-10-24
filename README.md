@@ -34,16 +34,24 @@ I am an undergraduate researcher in Information and Communication Engineering at
 
 ### Under Review
 
-- **Lightweight Action Readout from Multi-Level World Representations for Efficient DriveWAM**<br>
-  Song, YongHwi* and Lee, Keon Myung · Submitted to the poster track of the **Korean Artificial Intelligence Association (KAIA) Conference**, 2026.
+- **Planners Exploit Deterministic Error: Dithered Low-Bit World Models**<br>
+  Song, YongHwi* and Lee, Keon Myung · Submitted to the **Korean Artificial Intelligence Association (KAIA) Conference** (poster), 2026.
+- **Near-Miss Blindness: World-Model Imagination Loses the Outcome Boundary**<br>
+  Song, YongHwi* and Lee, Keon Myung · Submitted to the **Korean Artificial Intelligence Association (KAIA) Conference** (poster), 2026.
+- **Imagine Once, Act Fast: Lightweight Action Readout from a Frozen Driving World-Action Model**<br>
+  Song, YongHwi* and Lee, Keon Myung · Submitted to the **Korean Artificial Intelligence Association (KAIA) Conference** (poster), 2026.
 - **A Decision Model as a World Model: Comparing JEV with Generative LLMs for LLM Agents**<br>
   Song, YongHwi* and Lee, Keon Myung · Submitted to the **2026 Fall Conference of the Korean Institute of Intelligent Systems (KIIS)**, 2026.
 
 ### In Preparation
 
+- **Planners Exploit Deterministic Error: Dithered Low-Bit World Models**<br>
+  Song, YongHwi* and Lee, Keon Myung · To be submitted to **Robotics: Science and Systems (RSS) 2027**.
+- **Near-Miss Blindness: World-Model Imagination Loses the Outcome Boundary**<br>
+  Song, YongHwi* and Lee, Keon Myung · To be submitted to **Transactions on Machine Learning Research (TMLR)**.
 - **K-PragShift: Diagnosing Korean Pragmatic Revisions in Tool-Using Language Models**<br>
   Song, YongHwi* · To be submitted to the **EACL 2027 Student Research Workshop**.
-- **Lightweight Action Readout from Multi-Level World Representations for Efficient DriveWAM**<br>
+- **Imagine Once, Act Fast: Lightweight Action Readout from a Frozen Driving World-Action Model**<br>
   Song, YongHwi* and Lee, Keon Myung · To be submitted to **Transactions on Machine Learning Research (TMLR)**.
 
 \* First author. Submitted work is listed with its current submission status.
@@ -69,7 +77,7 @@ Built AI-agent workflows and backend infrastructure for an educational AI platfo
 **Personal Project · Mar. 2026 – Jun. 2026**<br>
 Implemented trajectory prediction models using the Argoverse 2 Motion Forecasting dataset.
 
-### Lightweight Action Readout for Efficient DriveWAM
+### Imagine Once, Act Fast: Lightweight Action Readout from a Frozen DriveWAM
 
 **Research Project · Jan. 2026 – Present**<br>
 Investigating efficient action prediction by extracting lightweight action representations from multi-level world representations.
@@ -90,9 +98,9 @@ Implemented Shapley-guided multimodal fusion using RGB, LiDAR, route, and ego-st
 
 | Event | Result & Work |
 | :--- | :--- |
-| **2026 NASA Space Apps Challenge (Seoul)** · Nov. 2026, upcoming | Accepted as a participant in the Seoul Local Event with Team Moonkeeper. Planning a CLPS lunar mission explorer that visualizes landing sites, Sun/Earth visibility, power and communication windows, and mission timelines from NASA data. |
+| **2026 NASA Space Apps Challenge (Seoul)** · Nov. 2026, upcoming | Accepted as a participant in the Seoul Local Event with Team Moonkeeper. Planning a CLPS lunar mission explorer that visualizes landing sites, visibility windows, and mission timelines from NASA data. |
 | **SK hynix AI Hackathon 2026** · Oct. 2026, in progress | Passed the document screening round. |
-| **KRAFTON AI R&D Hackathon — Dream It Yourself, Video-Based Lightweight World-Action Model** · Oct. 2026, in progress | Participating individually in Track 3. Building a lightweight world-action model that infers hidden physics from pixels, imagines futures in latent space, and plans pendulum swing-up within the learned model. |
+| **KRAFTON AI R&D Hackathon — Dream It Yourself, Video-Based Lightweight World-Action Model** · Oct. 2026, in progress | Participating individually in Track 3. Building a lightweight world-action model that infers hidden physics from pixels and plans pendulum swing-up in imagination. |
 | **LG Aimers 9th Cohort** · Aug. – Sep. 2026 | Advanced to Phase 2 Online AI Hackathon (**Top 20%**). Worked on predicting pitch-control success probabilities from game context, player history, and tracking data. |
 | **2026 NIKL AI-Malpyung — Argumentative Writing Scoring** · Jul. – Sep. 2026 | Ranked **23rd in the preliminary competition** and advanced to the **50-team final arena**. Developed an AI system for automated evaluation of Korean argumentative writing. |
 | **2026 CODEGATE AI Startup Hackathon** · Jul. 2026 | **Finalist** · Selected as one of approximately 20 finalist teams for the offline hackathon and demo day. Participated in intensive development and validation of an AI-based startup MVP. |
@@ -109,9 +117,9 @@ Implemented Shapley-guided multimodal fusion using RGB, LiDAR, route, and ego-st
 | :--- | :--- |
 | Programming | Python, C/C++, Java |
 | ML Frameworks | PyTorch, TensorFlow, scikit-learn, Stable-Baselines3 |
-| World Models & RL | World Models, World Action Models, Reinforcement Learning, Model-Based Reinforcement Learning, Actor-Critic Methods, Multimodal Policy Learning |
-| LLMs & Agentic AI | Large/Small Language Models (LLMs/sLMs), Agentic AI, Tool-Using Language Models, Multi-Agent Systems, Structured LLM Outputs, Local LLM Inference |
-| Multimodal & Embodied AI | Multimodal Learning, Sensor Fusion, Computer Vision, Embodied AI, Physical AI, Trajectory Prediction |
+| World Models & RL | World Models, World Action Models, Model-Based Reinforcement Learning, Actor-Critic Methods |
+| LLMs & Agentic AI | Large/Small Language Models (LLMs/sLMs), Agentic AI, Tool-Using Language Models, Multi-Agent Systems |
+| Multimodal & Embodied AI | Multimodal Learning, Sensor Fusion, Computer Vision, Embodied AI, Physical AI |
 | Driving & Simulation | CARLA, Argoverse 2, ManiSkill, Motion Forecasting, Autonomous Driving, Robotic Manipulation |
 | AI Systems | Git, Linux, FastAPI, Supabase, Ollama, LM Studio, REST APIs |
 
