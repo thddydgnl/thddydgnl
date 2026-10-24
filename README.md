@@ -34,6 +34,8 @@ I am an undergraduate researcher in Information and Communication Engineering at
 
 ### Under Review
 
+- **Lightweight Action Readout from Multi-Level World Representations for Efficient DriveWAM**<br>
+  Song, YongHwi* and Lee, Keon Myung · Submitted to the poster track of the **Korean Artificial Intelligence Association (KAIA) Conference**, 2026.
 - **A Decision Model as a World Model: Comparing JEV with Generative LLMs for LLM Agents**<br>
   Song, YongHwi* and Lee, Keon Myung · Submitted to the **2026 Fall Conference of the Korean Institute of Intelligent Systems (KIIS)**, 2026.
 
@@ -43,8 +45,6 @@ I am an undergraduate researcher in Information and Communication Engineering at
   Song, YongHwi* · To be submitted to the **EACL 2027 Student Research Workshop**.
 - **Lightweight Action Readout from Multi-Level World Representations for Efficient DriveWAM**<br>
   Song, YongHwi* and Lee, Keon Myung · To be submitted to **Transactions on Machine Learning Research (TMLR)**.
-- **Lightweight Action Readout from Multi-Level World Representations for Efficient DriveWAM**<br>
-  Song, YongHwi* and Lee, Keon Myung · To be submitted to the poster track of the **Korean Artificial Intelligence Association (KAIA) Conference**.
 
 \* First author. Submitted work is listed with its current submission status.
 
