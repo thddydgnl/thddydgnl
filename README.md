@@ -77,11 +77,6 @@ Built AI-agent workflows and backend infrastructure for an educational AI platfo
 **Personal Project · Mar. 2026 – Jun. 2026**<br>
 Implemented trajectory prediction models using the Argoverse 2 Motion Forecasting dataset.
 
-### Imagine Once, Act Fast: Lightweight Action Readout from a Frozen DriveWAM
-
-**Research Project · Jan. 2026 – Present**<br>
-Investigating efficient action prediction by extracting lightweight action representations from multi-level world representations.
-
 ### Comparative Survey of RL Research for Autonomous Driving
 
 **Independent Research Project · Sep. 2025 – Present**<br>
