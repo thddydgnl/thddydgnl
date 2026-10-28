@@ -2,7 +2,7 @@
 # YongHwi Song · 송용휘
 
 **B.S. Candidate · Chungbuk National University**<br>
-World Models · World Action Models · Model-Based Planning · Tool-Using Language Agents
+World Models · World-Action Models · Model-Based Planning · Tool-Using Language Agents
 
 [Academic Homepage](https://thddydgnl.github.io/) · [CV (PDF)](https://thddydgnl.github.io/YongHwi_Song_CV.pdf) · [Email](mailto:thddydgnl1937@gmail.com)
 
@@ -25,10 +25,10 @@ I am an undergraduate researcher in Information and Communication Engineering at
 
 ## Research Interests
 
-- **World Models and World Action Models**
-- **Agentic AI and Tool-Using Language Models**
-- **Large and Small Language Models (LLMs/sLMs)**
-- **Multimodal Learning and Multimodal Foundation Models**
+- **World Models and World-Action Models**
+- **Model-Based Planning and Reinforcement Learning**
+- **Efficient and Reliable World Models**
+- **World Models for Embodied and Language Agents**
 
 ## Publications & Manuscripts
 
@@ -117,7 +117,7 @@ Implemented Shapley-guided multimodal fusion using RGB, LiDAR, route, and ego-st
 | :--- | :--- |
 | Programming | Python, C/C++, Java |
 | ML Frameworks | PyTorch, TensorFlow, scikit-learn, Stable-Baselines3 |
-| World Models & RL | World Models, World Action Models, Model-Based Reinforcement Learning, Actor-Critic Methods |
+| World Models & RL | World Models, World-Action Models, Model-Based Reinforcement Learning, Actor-Critic Methods |
 | LLMs & Agentic AI | Large/Small Language Models (LLMs/sLMs), Agentic AI, Tool-Using Language Models, Multi-Agent Systems |
 | Multimodal & Embodied AI | Multimodal Learning, Sensor Fusion, Computer Vision, Embodied AI, Physical AI |
 | Driving & Simulation | CARLA, Argoverse 2, ManiSkill, Motion Forecasting, Autonomous Driving, Robotic Manipulation |
