@@ -2,11 +2,11 @@
 # YongHwi Song · 송용휘
 
 **B.S. Candidate · Chungbuk National University**<br>
-World Models · World Action Models · Agentic AI · Tool-Using Language Models
+World Models · World Action Models · Model-Based Planning · Tool-Using Language Agents
 
 [Academic Homepage](https://thddydgnl.github.io/) · [CV (PDF)](https://thddydgnl.github.io/YongHwi_Song_CV.pdf) · [Email](mailto:thddydgnl1937@gmail.com)
 
-I am an undergraduate researcher in Information and Communication Engineering at Chungbuk National University. My research focuses on efficient world and world-action models, agentic AI, and tool-using language models. Previously, I worked on multimodal reinforcement learning for autonomous driving.
+I am an undergraduate researcher in Information and Communication Engineering at Chungbuk National University. My research focuses on world models and world-action models: learning compact models of the environment, planning inside them, and reading actions out of them efficiently. I also explore world models as decision modules for tool-using language agents. Previously, I worked on multimodal reinforcement learning for autonomous driving.
 
 ## Education & Research Experience
 
