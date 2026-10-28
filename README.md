@@ -39,7 +39,7 @@ I am an undergraduate researcher in Information and Communication Engineering at
 - **Near-Miss Blindness: Latent World-Model Imagination Loses the Outcome Boundary**<br>
   Song, YongHwi* and Lee, Keon Myung · Submitted to the **Korean Artificial Intelligence Association (KAIA) Conference** (poster), 2026.
 - **Imagine Once, Act Fast: Lightweight Action Readout from a Frozen Driving World-Action Model**<br>
-  Song, YongHwi* and Lee, Keon Myung · Submitted to the **Korean Artificial Intelligence Association (KAIA) Conference** (poster), 2026.
+  Song, YongHwi* and Kang, Hyun Soo · Submitted to the **Korean Artificial Intelligence Association (KAIA) Conference** (poster), 2026.
 - **A Decision Model as a World Model: Comparing JEV with Generative LLMs for LLM Agents**<br>
   Song, YongHwi* and Lee, Keon Myung · Submitted to the **2026 Fall Conference of the Korean Institute of Intelligent Systems (KIIS)**, 2026.
 
@@ -126,4 +126,4 @@ Implemented Shapley-guided multimodal fusion using RGB, LiDAR, route, and ego-st
 ---
 
 [Homepage](https://thddydgnl.github.io/) · [CV](https://thddydgnl.github.io/YongHwi_Song_CV.pdf) · [thddydgnl1937@gmail.com](mailto:thddydgnl1937@gmail.com)<br>
-Updated October 24, 2026.
+Updated October 28, 2026.
