@@ -20,8 +20,8 @@ I am an undergraduate researcher in Information and Communication Engineering at
 
 | Period | Role & Organization |
 | :--- | :--- |
-| Oct. 2026 – Present | **Researcher**, [Hello, World! Season 2 — World Models Paper Review](https://github.com/Pseudo-Lab/hello-world-models), Pseudo Lab (가짜연구소) · Reviewing World Models research papers, participating in technical discussions, and contributing structured review documents to the project website. |
-| Jan. 2026 – Sep. 2026 | **Advanced Division Leader**, Applied Machine Learning Division, HyperCore AI & Data Analytics Club · Led machine learning study sessions and supported AI project development. |
+| Oct. 2026 – Present | **Runner (13th Cohort)**, [Hello, World! Season 2 — World Models Paper Review](https://github.com/Pseudo-Lab/hello-world-models), Pseudo Lab (가짜연구소) · Reviewing world-model research papers, participating in technical discussions, and contributing structured review documents to the project website. |
+| Jan. 2026 – Sep. 2026 | **Team Leader**, Applied Machine Learning Division, HyperCore AI & Data Analytics Club · Formed and led a club team for hackathons and paper reviews. |
 
 ## Research Interests
 
@@ -66,14 +66,14 @@ I am an undergraduate researcher in Information and Communication Engineering at
 **2026 NASA Space Apps Challenge Team Project · Sep. 2026 – Present**<br>
 Building a React web app that visualizes CLPS lunar landing sites, Sun/Earth visibility windows, and mission timelines from NASA data.
 
-### Folding — Local-First Document Agent
+### [Folding — Local-First Document Agent](https://github.com/dotenv-uploaded/_FOLDING_)
 
 **Team Project · Jul. 2026**<br>
-Developed a local-first document agent for retrieving, connecting, and safely editing heterogeneous documents.
+Built the initial LLM-wiki platform that turns HWP, Office, and PDF files into a linked knowledge base.
 
 ### [Solar TutorBoard: AI-Powered Personalized Learning Platform](https://github.com/thddydgnl/solar-tutorboard)
 
-**Upstage MixUp Agent Hackathon · May 2026**<br>
+**3rd MixUp AI Hackathon (Upstage × BDAI) · May 2026**<br>
 Built AI-agent workflows and backend infrastructure for an educational AI platform.
 
 ### [Vehicle and Pedestrian Trajectory Forecasting on Argoverse 2](https://github.com/thddydgnl/vehicle-trajectory-prediction-av2)
@@ -99,11 +99,12 @@ Implemented Shapley-guided multimodal fusion using RGB, LiDAR, route, and ego-st
 | :--- | :--- |
 | **2026 NASA Space Apps Challenge (Seoul)** · Nov. 2026, upcoming | Accepted as a participant in the Seoul Local Event with Team Moonkeeper. |
 | **SK hynix AI Hackathon 2026** · Oct. 2026, in progress | Passed the document screening round. |
-| **KRAFTON AI R&D Hackathon — Dream It Yourself, Video-Based Lightweight World-Action Model** · Oct. 2026, in progress | Participating individually in Track 3. Building a lightweight world-action model that infers hidden physics from pixels and plans pendulum swing-up in imagination. |
-| **LG Aimers 9th Cohort** · Aug. – Sep. 2026 | Advanced to Phase 2 Online AI Hackathon (**Top 20%**). Worked on predicting pitch-control success probabilities from game context, player history, and tracking data. |
-| **2026 NIKL AI-Malpyung — Argumentative Writing Scoring** · Jul. – Sep. 2026 | Ranked **23rd in the preliminary competition** and advanced to the **50-team final arena**. Developed an AI system for automated evaluation of Korean argumentative writing. |
+| **KRAFTON AI R&D Hackathon — Dream It Yourself, Video-Based Lightweight World-Action Model** · Oct. 2026 | Advanced to the final round. Built a world-action model that predicts cart–double-pendulum dynamics and selects the next action from the same representation. |
+| **2026 Startup for All Project (모두의 창업)** · Oct. 2026 | Passed the first round. Folding Next / A desktop agent that helps public servants fill forms and draft documents from in-house files, with user-checked sources. |
+| **LG Aimers 9th Cohort** · Aug. – Sep. 2026 | Advanced to the Phase 2 online hackathon (**top 20%**). Worked on predicting pitch-control success probabilities from game context, player history, and tracking data. |
+| **2026 NIKL AI-Malpyung — Argumentative Writing Scoring** · Jul. – Sep. 2026 | Ranked **23rd in the preliminary round** and advanced to the **final round of 50 teams**. Developed an AI system for automated evaluation of Korean argumentative writing. |
 | **2026 CODEGATE AI Startup Hackathon** · Jul. 2026 | **Finalist** · Selected as one of approximately 20 finalist teams for the offline hackathon and demo day. Participated in intensive development and validation of an AI-based startup MVP. |
-| **Upstage × BDAI Agent Development Hackathon** · 2026 | **Finalist** · Solar TutorBoard / Developed a Solar Pro3-based multi-agent platform for tutoring operations, including lesson reports, payment reminders, and schedule coordination. |
+| **3rd MixUp AI Hackathon (Upstage × BDAI)** · May 2026 | **Finalist** · Solar TutorBoard / Built the agent workflows and backend of a Solar Pro3-based tutoring assistant for lesson reports, payment reminders, and scheduling. |
 
 ## Awards & Scholarships
 
