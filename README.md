@@ -13,8 +13,8 @@ I am an undergraduate researcher in Information and Communication Engineering at
 | Period | Role & Affiliation |
 | :--- | :--- |
 | Mar. 2023 – Feb. 2027 (Expected) | **B.S. Candidate**, School of Information and Communication Engineering, Chungbuk National University · GPA **3.83 / 4.5** |
-| Jun. 2026 – Present | **Research Intern**, Artificial Intelligence Laboratory (AI Lab), Chungbuk National University (Advisor: Prof. Keon Myung Lee) · Conducting research on agentic AI, tool-using language models, and efficient world/world-action models. |
-| Mar. 2025 – Jun. 2026 | **Research Intern**, Multimedia Information Processing (MIP) Laboratory, Chungbuk National University (Advisor: Prof. Hyun Soo Kang) · Research on Autonomous Driving and Multimodal Reinforcement Learning. |
+| Jun. 2026 – Present | **Research Intern**, Artificial Intelligence Laboratory (AI Lab), Chungbuk National University (Advisor: Prof. Keon Myung Lee) · Conducting research on efficient world and world-action models and on world models for tool-using language agents.<br>– Showed that MPPI planners exploit deterministic rounding error in low-bit TD-MPC2 world models; training-free dithering removed a median **95% of the success drop** on Meta-World.<br>– Found that latent world-model imagination blurs near misses: on DINO-WM PushT, success-vs-near-miss AUROC fell from **0.953 to 0.853**, while far misses stayed separable.<br>– Showed that a frozen decision model, JEV, works as an LLM agent's world model without task training, reaching **93.4% success** in TextWorld vs. 79.5% for a failure-memory baseline. |
+| Mar. 2025 – Jun. 2026 | **Research Intern**, Multimedia Information Processing (MIP) Laboratory, Chungbuk National University (Advisor: Prof. Hyun Soo Kang) · Conducted research on multimodal reinforcement learning for autonomous driving.<br>– Designed and implemented RCS-AC, a CARLA driving actor-critic that gates RGB, LiDAR, route, and ego-state features by sensor reliability, risk, and Shapley contribution. |
 
 ## Activities & Leadership
 
@@ -35,24 +35,23 @@ I am an undergraduate researcher in Information and Communication Engineering at
 ### Under Review
 
 - **Planners Exploit Deterministic Error: Dithered Low-Bit World Models**<br>
-  Song, YongHwi* and Lee, Keon Myung · Submitted to the **Korean Artificial Intelligence Association (KAIA) Conference** (poster), 2026.
-- **Near-Miss Blindness: Latent World-Model Imagination Loses the Outcome Boundary**<br>
-  Song, YongHwi* and Lee, Keon Myung · Submitted to the **Korean Artificial Intelligence Association (KAIA) Conference** (poster), 2026.
+  Song, YongHwi* and Lee, Keon Myung · Submitted to the **Korean Artificial Intelligence Association (KAIA) Conference** (poster), 2026. Extended version to be submitted to Robotics: Science and Systems (RSS) 2027.
+- **Near-Miss Blindness: Latent World-Model Imagination Loses Resolution at the Outcome Boundary**<br>
+  Song, YongHwi* and Lee, Keon Myung · Submitted to the **Korean Artificial Intelligence Association (KAIA) Conference** (poster), 2026. Extended version to be submitted to Transactions on Machine Learning Research (TMLR).
 - **Imagine Once, Act Fast: Lightweight Action Readout from a Frozen Driving World-Action Model**<br>
   Song, YongHwi* and Kang, Hyun Soo · Submitted to the **Korean Artificial Intelligence Association (KAIA) Conference** (poster), 2026.
-- **A Decision Model as a World Model: Comparing JEV with Generative LLMs for LLM Agents**<br>
-  Song, YongHwi* and Lee, Keon Myung · Submitted to the **2026 Fall Conference of the Korean Institute of Intelligent Systems (KIIS)**, 2026.
 
 ### In Preparation
 
-- **Planners Exploit Deterministic Error: Dithered Low-Bit World Models**<br>
-  Song, YongHwi* and Lee, Keon Myung · To be submitted to **Robotics: Science and Systems (RSS) 2027**.
-- **Near-Miss Blindness: Latent World-Model Imagination Loses the Outcome Boundary**<br>
-  Song, YongHwi* and Lee, Keon Myung · To be submitted to **Transactions on Machine Learning Research (TMLR)**.
 - **K-PragShift: Diagnosing Korean Pragmatic Revisions in Tool-Using Language Models**<br>
   Song, YongHwi* · To be submitted to the **EACL 2027 Student Research Workshop**.
 - **Imagine Once, Act Fast: Lightweight Action Readout from a Frozen Driving World-Action Model**<br>
   Song, YongHwi* and Lee, Keon Myung · To be submitted to **Transactions on Machine Learning Research (TMLR)**.
+
+### Conference Presentations
+
+- **A World Model for LLM Agents: Comparing a Decision Model with General-Purpose LLMs**<br>
+  Song, YongHwi* and Lee, Keon Myung · Oral presentation, **2026 Fall Conference of the Korean Institute of Intelligent Systems (KIIS)**.
 
 \* First author. Submitted work is listed with its current submission status.
 
@@ -77,10 +76,10 @@ Developed a local-first document agent for retrieving, connecting, and safely ed
 **Upstage MixUp Agent Hackathon · May 2026**<br>
 Built AI-agent workflows and backend infrastructure for an educational AI platform.
 
-### [Multi-Agent Vehicle Trajectory Prediction on Argoverse 2](https://github.com/thddydgnl/vehicle-trajectory-prediction-av2)
+### [Vehicle and Pedestrian Trajectory Forecasting on Argoverse 2](https://github.com/thddydgnl/vehicle-trajectory-prediction-av2)
 
 **Personal Project · Mar. 2026 – Jun. 2026**<br>
-Implemented trajectory prediction models using the Argoverse 2 Motion Forecasting dataset.
+Compared linear, LSTM, Transformer, and diffusion trajectory forecasters; PCA latent diffusion reached a **minFDE of 0.86** at K=16.
 
 ### Comparative Survey of RL Research for Autonomous Driving
 
@@ -126,4 +125,4 @@ Implemented Shapley-guided multimodal fusion using RGB, LiDAR, route, and ego-st
 ---
 
 [Homepage](https://thddydgnl.github.io/) · [CV](https://thddydgnl.github.io/YongHwi_Song_CV.pdf) · [thddydgnl1937@gmail.com](mailto:thddydgnl1937@gmail.com)<br>
-Updated October 28, 2026.
+Updated October 31, 2026.
