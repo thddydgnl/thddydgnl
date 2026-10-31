@@ -13,7 +13,7 @@ I am an undergraduate researcher in Information and Communication Engineering at
 | Period | Role & Affiliation |
 | :--- | :--- |
 | Mar. 2023 – Feb. 2027 (Expected) | **B.S. Candidate**, School of Information and Communication Engineering, Chungbuk National University · GPA **3.83 / 4.5** |
-| Jun. 2026 – Present | **Research Intern**, Artificial Intelligence Laboratory (AI Lab), Chungbuk National University (Advisor: Prof. Keon Myung Lee) · Conducting research on efficient world and world-action models and on world models for tool-using language agents.<br>– Showed that MPPI planners exploit deterministic rounding error in low-bit TD-MPC2 world models; training-free dithering removed a median **95% of the success drop** on Meta-World.<br>– Found that latent world-model imagination blurs near misses: on DINO-WM PushT, success-vs-near-miss AUROC fell from **0.953 to 0.853**, while far misses stayed separable.<br>– Showed that a frozen decision model, JEV, works as an LLM agent's world model without task training, reaching **93.4% success** in TextWorld vs. 79.5% for a failure-memory baseline. |
+| Jun. 2026 – Present | **Research Intern**, Artificial Intelligence Laboratory (AI Lab), Chungbuk National University (Advisor: Prof. Keon Myung Lee) · Researching efficient and reliable world models and their use in LLM agents.<br>– Showed that MPPI planners exploit deterministic rounding error in low-bit TD-MPC2 world models; training-free dithering removed a median **95% of the success drop** on Meta-World.<br>– Found that latent world-model imagination blurs near misses: success-vs-near-miss AUROC fell from **0.953 to 0.853** on DINO-WM PushT, while far misses stayed separable.<br>– Showed that a frozen decision model, JEV, works as an LLM agent's world model without task training, reaching **93.4% success** in TextWorld vs. 79.5% for a failure-memory baseline. |
 | Mar. 2025 – Jun. 2026 | **Research Intern**, Multimedia Information Processing (MIP) Laboratory, Chungbuk National University (Advisor: Prof. Hyun Soo Kang) · Conducted research on multimodal reinforcement learning for autonomous driving.<br>– Designed and implemented RCS-AC, a CARLA driving actor-critic that gates RGB, LiDAR, route, and ego-state features by sensor reliability, risk, and Shapley contribution. |
 
 ## Activities & Leadership
@@ -115,12 +115,9 @@ Implemented Shapley-guided multimodal fusion using RGB, LiDAR, route, and ego-st
 | Area | Technologies & Methods |
 | :--- | :--- |
 | Programming | Python, C/C++, Java |
-| ML Frameworks | PyTorch, TensorFlow, scikit-learn, Stable-Baselines3 |
-| World Models & RL | World Models, World-Action Models, Model-Based Reinforcement Learning, Actor-Critic Methods |
-| LLMs & Agentic AI | Large/Small Language Models (LLMs/sLMs), Agentic AI, Tool-Using Language Models, Multi-Agent Systems |
-| Multimodal & Embodied AI | Multimodal Learning, Sensor Fusion, Computer Vision, Embodied AI, Physical AI |
-| Driving & Simulation | CARLA, Argoverse 2, ManiSkill, Motion Forecasting, Autonomous Driving, Robotic Manipulation |
-| AI Systems | Git, Linux, FastAPI, Supabase, Ollama, LM Studio, REST APIs |
+| ML Frameworks | PyTorch, JAX, Triton, Hugging Face Transformers, scikit-learn, Stable-Baselines3 |
+| World Models & Simulation | TD-MPC2, DreamerV3, DINO-WM, MuJoCo, Meta-World, LIBERO, CARLA |
+| Tools | Linux, Git, Hydra, vLLM, FastAPI |
 
 ---
 
