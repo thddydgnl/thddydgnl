@@ -102,8 +102,8 @@ Implemented Shapley-guided multimodal fusion using RGB, LiDAR, route, and ego-st
 | **KRAFTON AI R&D Hackathon — Dream It Yourself, Video-Based Lightweight World-Action Model** · Oct. 2026 | Advanced to the final round. Built a world-action model that predicts cart–double-pendulum dynamics and selects the next action from the same representation. |
 | **2026 Startup for All Project (모두의 창업)** · Oct. 2026 | Passed the first round. Folding Next / A desktop agent that helps public servants fill forms and draft documents from in-house files, with user-checked sources. |
 | **LG Aimers 9th Cohort** · Aug. – Sep. 2026 | Advanced to the Phase 2 online hackathon (**top 20%**). Worked on predicting pitch-control success probabilities from game context, player history, and tracking data. |
-| **2026 NIKL AI-Malpyung — Argumentative Writing Scoring** · Jul. – Sep. 2026 | Ranked **23rd in the preliminary round** and advanced to the **final round of 50 teams**. Developed an AI system for automated evaluation of Korean argumentative writing. |
-| **2026 CODEGATE AI Startup Hackathon** · Jul. 2026 | **Finalist** · Selected as one of approximately 20 finalist teams for the offline hackathon and demo day. Participated in intensive development and validation of an AI-based startup MVP. |
+| **2026 NIKL AI-Malpyung — Argumentative Writing Scoring** · Jul. – Sep. 2026 | Advanced to the final round. Developed an AI system for automated evaluation of Korean argumentative writing. |
+| **2026 CODEGATE AI Startup Hackathon** · Jul. 2026 | **Finalist** · Selected with Folding for the offline final and demo day (about 20 teams). |
 | **3rd MixUp AI Hackathon (Upstage × BDAI)** · May 2026 | **Finalist** · Solar TutorBoard / Built the agent workflows and backend of a Solar Pro3-based tutoring assistant for lesson reports, payment reminders, and scheduling. |
 
 ## Awards & Scholarships
