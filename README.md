@@ -12,12 +12,14 @@ I am an undergraduate researcher in Information and Communication Engineering at
 
 ## Research
 
+- **How Many Candidates Does a One-Step World Model Need? A Random-Codebook Account of Nearest-of-m Training on Frozen DINO Tokens** — *TMLR in prep.*<br>
+  A one-step nearest-of-m world model on frozen DINO tokens covers **0.93** of the enumerated future modes vs. **0.79** for 50-step flow matching, at about **30×** lower latency. [[code]](https://github.com/thddydgnl/nearest-of-m-world-models)
 - **Planners Exploit Deterministic Error: Dithered Low-Bit World Models** — *KAIA 2026 poster · RSS 2027 in prep.*<br>
   Planners exploit deterministic rounding error in low-bit TD-MPC2 world models; training-free dithering removes a median **95%** of the success drop on Meta-World. [[code]](https://github.com/thddydgnl/dithered-world-models)
 - **Near-Miss Blindness: Latent World-Model Imagination Loses Resolution at the Outcome Boundary** — *KAIA 2026 poster · TMLR in prep.*<br>
   Latent world-model imagination blurs near misses: success-vs-near-miss AUROC falls from **0.953 to 0.853** on DINO-WM PushT, while far misses stay separable. [[code]](https://github.com/thddydgnl/near-miss-blindness)
 - **Imagine Once, Act Fast: Lightweight Action Readout from a Frozen Driving World-Action Model** — *KAIA 2026 poster · TMLR in prep.*<br>
-  Reads the driving trajectory from a frozen 6B world-action model's first imagination pass, cutting decision latency up to **11.8×** on PhysicalAI-AV. [[code]](https://github.com/thddydgnl/drivewam-lightweight-action-readout)
+  Reads the driving trajectory from a frozen 6B world-action model's first imagination pass, cutting decision latency up to **11.9×** on PhysicalAI-AV. [[code]](https://github.com/thddydgnl/drivewam-lightweight-action-readout)
 - **A World Model for LLM Agents: Comparing a Decision Model with General-Purpose LLMs** — *KIIS 2026 oral*<br>
   A frozen decision model (JEV) works as an LLM agent's world model without task training: **93.4%** success in TextWorld vs. 79.5% for a failure-memory baseline. [[code]](https://github.com/thddydgnl/jev-world-model)
 
@@ -32,4 +34,4 @@ I am an undergraduate researcher in Information and Communication Engineering at
 ---
 
 Education, projects, competitions, awards, and skills are in the full CV: [Homepage](https://thddydgnl.github.io/) · [PDF](https://thddydgnl.github.io/YongHwi_Song_CV.pdf)<br>
-<sub>Updated October 31, 2026.</sub>
+<sub>Updated November 2, 2026.</sub>
