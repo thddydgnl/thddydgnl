@@ -25,6 +25,7 @@ I am an undergraduate researcher in Information and Communication Engineering at
 
 ## News
 
+- **Oct. 2026** · Selected as a top-10 finalist at the 2026 Southeast Region Multi-Domain Mobility Business Hackathon (drift world model for sea rescue).
 - **Oct. 2026** · Paper accepted for an oral presentation at the KIIS 2026 Fall Conference.
 - **Oct. 2026** · Three papers submitted to the KAIA 2026 Conference as posters.
 - **Oct. 2026** · Advanced to the final round of the KRAFTON AI R&D Hackathon (world-action models).
@@ -34,4 +35,4 @@ I am an undergraduate researcher in Information and Communication Engineering at
 ---
 
 Education, projects, competitions, awards, and skills are in the full CV: [Homepage](https://thddydgnl.github.io/) · [PDF](https://thddydgnl.github.io/YongHwi_Song_CV.pdf)<br>
-<sub>Updated November 2, 2026.</sub>
+<sub>Updated November 9, 2026.</sub>
